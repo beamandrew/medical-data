@@ -42,8 +42,6 @@ Anonymized critical care EHR database on 38,597 patients and 53,423 ICU admissio
 Paper: http://www.nature.com/articles/sdata201635  
 Data: http://physionet.org/physiobank/database/mimic3cdb/  
 
-***
-
 ## Biomedical Literature 
 __PMC Open Access Subset__  
 Collection of all the full-text, open access articles in Pubmed central.  

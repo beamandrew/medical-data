@@ -18,7 +18,7 @@ Preprocessed version: http://preprocessed-connectomes-project.org/abide/
 ***
 
 __Alzheimer's Disease Neuroimaging Initiative (ADNI)__  
-MRI database on Alzheimer's patients and healthy controls. Also has clinical, genomic, and biomaker data.  
+MRI database on Alzheimer's patients and healthy controls. Also has clinical, genomic, and biomaker data. __Requires registration__.  
 Paper: http://www.neurology.org/content/74/3/201.short  
 Access: http://adni.loni.usc.edu/data-samples/access-data/
 

@@ -47,3 +47,20 @@ __PMC Open Access Subset__
 Collection of all the full-text, open access articles in Pubmed central.  
 Information: http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/  
 Archived files: http://www.ncbi.nlm.nih.gov/pmc/tools/ftp/#Data_Mining  
+
+## UCI Datasets
+__Liver Disorders Data Set__  
+Data on 345 patients with and without liver disease. Features are 5 blood biomarkers thought to be involved with liver disease.  
+Data: https://archive.ics.uci.edu/ml/datasets/Liver+Disorders  
+
+__Thyroid Disease Data Set__  
+Data: https://archive.ics.uci.edu/ml/datasets/Thyroid+Disease  
+
+__Breast Cancer Data Set__  
+Data: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer  
+
+__Heart Disease Data Set__  
+Data: https://archive.ics.uci.edu/ml/datasets/Heart+Disease  
+
+__Lymphography Data Set__  
+Data: https://archive.ics.uci.edu/ml/datasets/Lymphography  

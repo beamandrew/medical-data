@@ -1,7 +1,7 @@
 ## EHR-related data
 
 *Building the graph of medicine from millions of clinical narratives:*  
-Co-occurence statistics for medical terms extracted from 20 million clincal notes.  
+Co-occurence statistics for medical terms extracted from 14 million clincal notes and 260,000 patients.  
 Paper: http://www.nature.com/articles/sdata201432#data-records  
 Data: http://datadryad.org/resource/doi:10.5061/dryad.jp917  
 

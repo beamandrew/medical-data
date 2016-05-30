@@ -1,8 +1,13 @@
+## Medical Imaging Data
+__The National Library of Medicine presents MedPix®__  
+Database of 53,000 medical images from 13,000 patients with annotations. __Requires registration__.  
+Information: https://medpix.nlm.nih.gov/home  
+
 ## Data derived from Electronic Health Records (EHRs)
 
 __Building the graph of medicine from millions of clinical narratives__  
 Co-occurence statistics for medical terms extracted from 14 million clincal notes and 260,000 patients.  
-Paper: http://www.nature.com/articles/sdata201432#data-records  
+Paper: http://www.nature.com/articles/sdata201432  
 Data: http://datadryad.org/resource/doi:10.5061/dryad.jp917  
 
 ***
@@ -14,7 +19,7 @@ Data: https://github.com/clinicalml/embeddings
 
 ***
 __MIMIC-III, a freely accessible critical care database__  
-Anonymized critical care EHR database on 38,597 patients and 53,423 ICU admissions. Requires registration.  
+Anonymized critical care EHR database on 38,597 patients and 53,423 ICU admissions. __Requires registration__.  
 Paper: http://www.nature.com/articles/sdata201635  
 Data: http://physionet.org/physiobank/database/mimic3cdb/  
 

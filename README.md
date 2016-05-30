@@ -3,11 +3,20 @@ __The National Library of Medicine presents MedPix®__
 Database of 53,000 medical images from 13,000 patients with annotations. __Requires registration__.  
 Information: https://medpix.nlm.nih.gov/home  
 
+***
+
 __ABIDE: The autism brain imaging data exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism.__  
-Function MRI images for 539 individuals suffering from ASD and 573 typical controls. These 1112 datasets are composed of structural and resting state functional MRI data along with an extensive array of phenotypic information.  
+Function MRI images for 539 individuals suffering from ASD and 573 typical controls. These 1112 datasets are composed of structural and resting state functional MRI data along with an extensive array of phenotypic information. __Requires registration__.    
 Paper: http://www.ncbi.nlm.nih.gov/pubmed/23774715  
 Information: http://fcon_1000.projects.nitrc.org/indi/abide/  
-Preprocessed version: http://preprocessed-connectomes-project.org/abide/
+Preprocessed version: http://preprocessed-connectomes-project.org/abide/  
+
+***
+
+__Alzheimer's Disease Neuroimaging Initiative (ADNI)__  
+MRI database on Alzheimer's patients and healthy controls. Also has clinical, genomic, and biomaker data.  
+Paper: http://www.neurology.org/content/74/3/201.short  
+Access: http://adni.loni.usc.edu/data-samples/access-data/
 
 ## Data derived from Electronic Health Records (EHRs)
 

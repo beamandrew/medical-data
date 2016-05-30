@@ -13,7 +13,7 @@ Data: http://datadryad.org/resource/doi:10.5061/dryad.jp917
 ***
 
 __Learning Low-Dimensional Representations of Medical Concept__  
-Low-dimensional embeddings of medical concepts constructed using claims data.  
+Low-dimensional embeddings of medical concepts constructed using claims data. Note that this paper utilizes data from _Building the graph of medicine from millions of clinical narratives_    
 Paper: http://cs.nyu.edu/~dsontag/papers/ChoiChiuSontag_AMIA_CRI16.pdf  
 Data: https://github.com/clinicalml/embeddings  
 

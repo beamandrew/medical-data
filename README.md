@@ -42,6 +42,21 @@ Anonymized critical care EHR database on 38,597 patients and 53,423 ICU admissio
 Paper: http://www.nature.com/articles/sdata201635  
 Data: http://physionet.org/physiobank/database/mimic3cdb/  
 
+## National Healthcare Data  
+__Medicare Data__  
+Data from the Centers for Medicare & Medicaid Services (CMS) on hospitals, nursing homes, physicians, home healthcare, dialysis, and device providers.  
+Landing page: https://data.medicare.gov  
+Explorer: https://data.medicare.gov/data  
+
+***
+
+__Dollars for Doctors__  
+Propublica investigation of money paid by pharmaceutical companies to doctors.  
+Information: https://www.propublica.org/series/dollars-for-docs  
+Search tool: https://projects.propublica.org/docdollars/  
+Data request: https://projects.propublica.org/data-store/sets/health-d4d-national-2   
+
+
 ## Biomedical Literature 
 __PMC Open Access Subset__  
 Collection of all the full-text, open access articles in Pubmed central.  

@@ -56,6 +56,13 @@ Information: https://www.propublica.org/series/dollars-for-docs
 Search tool: https://projects.propublica.org/docdollars/  
 Data request: https://projects.propublica.org/data-store/sets/health-d4d-national-2   
 
+***
+
+__DocGraph__
+Physician interaction network obtained through a freedom of information act request. Covers nearly 1 million entities.  
+Main page: http://www.docgraph.com  
+Information: http://thehealthcareblog.com/blog/2012/11/05/tracking-the-social-doctor-opening-up-physician-referral-data-and-much-more/  
+Data: http://linea.docgraph.org  
 
 ## Biomedical Literature 
 __PMC Open Access Subset__  

@@ -43,8 +43,8 @@ Paper: http://www.nature.com/articles/sdata201635
 Data: http://physionet.org/physiobank/database/mimic3cdb/  
 
 ## National Healthcare Data  
-__Centers for Disease Control and Prevention (CDC)__
-Data on from the CDC on many areas, including:
+__Centers for Disease Control and Prevention (CDC)__  
+Data on from the CDC on many areas, including:  
 - Biomonitoring
 - Child Vaccinations
 - Flu Vaccinations
@@ -62,9 +62,8 @@ Data on from the CDC on many areas, including:
 - Vaccinations
 - Web Metrics
 
-
-Landing page: https://data.cdc.gov
-Data Catalog: https://data.cdc.gov/browse
+Landing page: https://data.cdc.gov  
+Data Catalog: https://data.cdc.gov/browse  
 
 ***
 

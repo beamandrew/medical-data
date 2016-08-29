@@ -43,6 +43,29 @@ Paper: http://www.nature.com/articles/sdata201635
 Data: http://physionet.org/physiobank/database/mimic3cdb/  
 
 ## National Healthcare Data  
+__Centers for Disease Control and Prevention (CDC)__
+Data on from the CDC on many areas, including:
+- Biomonitoring
+- Child Vaccinations
+- Flu Vaccinations
+- Health Statistics
+- Injury & Violence
+- MMWR
+- Motor Vehicle
+- NCHS
+- NNDSS
+- Pregnancy & Vaccination
+- STDs
+- Smoking & Tobacco Use
+- Teen Vaccinations
+- Traumatic Brain Injury
+- Vaccinations
+- Web Metrics
+Landing page: https://data.cdc.gov
+Data Catalog: https://data.cdc.gov/browse
+
+***
+
 __Medicare Data__  
 Data from the Centers for Medicare & Medicaid Services (CMS) on hospitals, nursing homes, physicians, home healthcare, dialysis, and device providers.  
 Landing page: https://data.medicare.gov  

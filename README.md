@@ -27,26 +27,26 @@ Access: http://adni.loni.usc.edu/data-samples/access-data/
 
 *** 
 
-AMRG Cardiac Atlas
+__AMRG Cardiac Atlas__
 The AMRG Cardiac MRI Atlas is a complete labelled MRI image set of a normal patient's heart acquired with the Auckland MRI Research Group 's Siemens Avanto scanner. The atlas aims to provide university and school students, MR technologists, clinicians...
 
 
-Congenital Heart Disease (CHD) Atlas
+__Congenital Heart Disease (CHD) Atlas__
 The Congenital Heart Disease (CHD) Atlas represents MRI data sets, physiologic clinical data and computer models from adults and children with various congenital heart defects. The data have been acquired from several clinical centers including Rady...
 
 
-DETERMINE
+__DETERMINE__
 DETERMINE (Defibrillators to Reduce Risk by Magnetic Resonance Imaging Evaluation) is a prospective, multicenter, randomized clinical trials in patients with coronary artery diseases and mild-to-moderate left ventricular dysfunction. The primary objective...
 
 
-MESA
+__MESA__
 MESA (Multi-Ethnic Study of Atherosclerosis ) is a large-scale cardiovascular population study (>6,500 participants) conducted in six centres in the USA. It aims to investigate the manifestation of subclinical to clinical cardiovascular disease before...
-SCMR Consensus Data
-SCMR Consensus Data
+
+__SCMR Consensus Data__
 The SCMR Consensus Dataset is a set of 15 cardiac MRI studies of mixed pathologies (5 healthy, 6 myocardial infarction, 2 heart failure and 2 hypertrophy), which were acquired from different MR machines (4 GE, 5 Siemens, 6 Philips). The main objectives...
 
 
-Sunnybrook Cardiac Data
+__Sunnybrook Cardiac Data__
 The Sunnybrook Cardiac Data (SCD) , also known as the 2009 Cardiac MR Left Ventricle Segmentation Challenge data, consist of 45 cine-MRI images from a mixed of patients and pathologies: healthy , hypertrophy , heart failure with infarction and heart...
 
 Access: http://www.cardiacatlas.org/studies/
@@ -56,7 +56,7 @@ Access: http://www.cardiacatlas.org/studies/
 
 
 ***
-Lung Image Database Consortium (LIDC)
+__Lung Image Database Consortium (LIDC)__
 
 
 Preliminary clinical studies have shown that spiral CT scanning of the lungs can improve early detection of lung cancer in high-risk individuals. Image processing algorithms have the potential to assist in lesion detection on spiral CT studies, and to assess the stability or change in lesion size on serial CT studies. The use of such computer-assisted algorithms could significantly enhance the sensitivity and specificity of spiral CT lung screening, as well as lower costs by reducing physician time needed for interpretation.
@@ -77,7 +77,7 @@ Access: http://imaging.cancer.gov/programsandresources/informationsystems/lidc
 
 
 ***
-TCIA Collections
+__TCIA Collections__
 
 The image data in The Cancer Imaging Archive (TCIA) is organized into purpose-built collections of subjects. The subjects typically have a cancer type and/or anatomical site (lung, brain, etc.) in common. Each link in the table below contains information concerning the scientific value of a collection, information about how to obtain any supporting non-image data which may be available, and links to view or download the imaging data. To support reproducibility in scientific research, TCIA supports Digital Object Identifiers (DOIs) which allow users to share subsets of TCIA data referenced in a research manuscript. 
 
@@ -86,7 +86,7 @@ Access: http://www.cancerimagingarchive.net/
 
 
 *** 
-Belarus tuberculosis portal
+__Belarus tuberculosis portal__
 Tuberculosis (TB) is a major problem of Belarus Public Health .Recently situation has been complicated with emergence and development of MDR/XDR TB and HIV/TB which require long-term treatment. Many and the most severe cases usually disseminate across the country to different TB dispensaries. The ability of leading Belarus TB specialists to follow such patients will be greatly improved by using a common database containing patients’ radiological images, lab work and clinical data. This will also significantly improve adherence to the treatment protocol and result in a better record of the treatment outcomes.
 Criteria for inclusion clinical cases in the database of the portal:
 
@@ -98,7 +98,7 @@ Access: http://tuberculosis.by/
 
 
 *** 
-DDSM: Digital Database for Screening Mammography
+__DDSM: Digital Database for Screening Mammography__
 
  The Digital Database for Screening Mammography (DDSM) is a resource for use by the mammographic image analysis research community. Primary support for this project was a grant from the Breast Cancer Research Program of the U.S. Army Medical Research and Materiel Command. The DDSM project is a collaborative effort involving co-p.i.s at the Massachusetts General Hospital (D. Kopans, R. Moore), the University of South Florida (K. Bowyer), and Sandia National Laboratories (P. Kegelmeyer). Additional cases from Washington University School of Medicine were provided by Peter E. Shile, MD, Assistant Professor of Radiology and Internal Medicine. Additional collaborating institutions include Wake Forest University School of Medicine (Departments of Medical Engineering and Radiology), Sacred Heart Hospital and ISMD, Incorporated. The primary purpose of the database is to facilitate sound research in the development of computer algorithms to aid in screening. Secondary purposes of the database may include the development of algorithms to aid in the diagnosis and the development of teaching or training aids. The database contains approximately 2,500 studies. Each study includes two images of each breast, along with some associated patient information (age at time of study, ACR breast density rating, subtlety rating for abnormalities, ACR keyword description of abnormalities) and image information (scanner, spatial resolution, ...). Images containing suspicious areas have associated pixel-level "ground truth" information about the locations and types of suspicious regions. Also provided are software both for accessing the mammogram and truth images and for calculating performance figures for automated image analysis algorithms. 
 
@@ -108,7 +108,7 @@ Access: http://marathon.csee.usf.edu/Mammography/Database.html
 
 *** 
 
-Prostate
+__Prostate__
 
 
 Prostate cancer (CaP) has been reported on a worldwide scale to be the second most frequently diagnosed cancer of men accounting for 13.6% (Ferlay et al. (2010)). Statistically, in 2008, the number of new diagnosed cases was estimated to be 899, 000 with no less than 258, 100 deaths (Ferlay et al. (2010)).
@@ -118,18 +118,18 @@ Access: http://i2cvb.github.io/
 
 
 ***
-MRI Lesion Segmentation in Multiple Sclerosis Database
+__MRI Lesion Segmentation in Multiple Sclerosis Database__
 
-Emergency Tele-Orthopedics X-ray Digital Library
+__Emergency Tele-Orthopedics X-ray Digital Library__
 
-IMT Segmentation
+__IMT Segmentation__
 
-Needle EMG MUAP Time Domain Features
+__Needle EMG MUAP Time Domain Features__
 
 Access: http://www.medinfo.cs.ucy.ac.cy/index.php/downloads/datasets
 
 *** 
-DICOM image sample sets
+__DICOM image sample sets__
 These datasets are exclusively available for research and teaching. You are not authorized to redistribute or sell them, or use them for commercial purposes.
 
 All these DICOM files are compressed in JPEG2000 transfer syntax.
@@ -140,7 +140,7 @@ Access: http://www.osirix-viewer.com/resources/dicom-image-library/
 
 
 *** 
-SCR database: Segmentation in Chest Radiographs
+__SCR database: Segmentation in Chest Radiographs__
 
 
 The automatic segmentation of anatomical structures in chest radiographs is of great importance for computer-aided diagnosis in these images. The SCR database has been established to facilitate comparative studies on segmentation of the lung fields, the heart and the clavicles in standard posterior-anterior chest radiographs.
@@ -152,7 +152,7 @@ Access: http://www.isi.uu.nl/Research/Databases/SCR/
 
 
 ***
-Medical Image Databases & Libraries 
+__Medical Image Databases & Libraries __
 
 
 General Category
@@ -209,7 +209,7 @@ Access: http://www.omnimedicalsearch.com/image_databases.html
 
 
 ***
-VIA Group Public Databases
+__VIA Group Public Databases__
 
  Documented image databases are essential for the development of quantitative image analysis tools especially for tasks of computer-aided diagnosis (CAD). In collaboration with the I-ELCAP group we have established two public image databases that contain lung CT images in the DICOM format together with documentation of abnormalities by radiologists. Please access the links below for more details:
 
@@ -218,11 +218,11 @@ Access: http://www.via.cornell.edu/databases/
 
 
 ***
-CVonline: Image Databases
+__CVonline: Image Databases__
 Access: http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm
 
 ***
-The USC-SIPI Image Database
+__The USC-SIPI Image Database__
  The USC-SIPI image database is a collection of digitized images. It is maintained primarily to support research in image processing, image analysis, and machine vision. The first edition of the USC-SIPI image database was distributed in 1977 and many new images have been added since then.
 
 The database is divided into volumes based on the basic character of the pictures. Images in each volume are of various sizes such as 256x256 pixels, 512x512 pixels, or 1024x1024 pixels. All images are 8 bits/pixel for black and white images, 24 bits/pixel for color images. The following volumes are currently available:

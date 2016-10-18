@@ -152,7 +152,7 @@ Access: http://www.isi.uu.nl/Research/Databases/SCR/
 
 
 ***
-__Medical Image Databases & Libraries __
+__Medical Image Databases & Libraries__
 
 
 General Category

@@ -79,6 +79,7 @@ Access: http://imaging.cancer.gov/programsandresources/informationsystems/lidc
 ***
 __TCIA Collections__
 
+Cancer imaging data sets across various cancer types (e.g. carcinoma, lung cancer, myeloma) and various imaging modalities.
 The image data in The Cancer Imaging Archive (TCIA) is organized into purpose-built collections of subjects. The subjects typically have a cancer type and/or anatomical site (lung, brain, etc.) in common. Each link in the table below contains information concerning the scientific value of a collection, information about how to obtain any supporting non-image data which may be available, and links to view or download the imaging data. To support reproducibility in scientific research, TCIA supports Digital Object Identifiers (DOIs) which allow users to share subsets of TCIA data referenced in a research manuscript. 
 
 Access: http://www.cancerimagingarchive.net/
@@ -155,7 +156,7 @@ Access: http://www.isi.uu.nl/Research/Databases/SCR/
 __Medical Image Databases & Libraries__
 
 
-General Category
+ General Category
 
 e-Anatomy.org - Interactive Atlas of Anatomy - e-anatomy is an anatomy e-learning web site. More than 1500 slices from normal CT and MR exams were selected in order to cover the entire sectional anatomy of human body. Images were labeled using Terminologia Anatomica. A user-friendly interface allows to cine through multi-slice image series combined with interactive textual information, 3D models and anatomy drawings.
 
@@ -233,6 +234,62 @@ The database is divided into volumes based on the basic character of the picture
 	Sequences 	Moving head, fly-overs, moving vehicles
 
 Access: http://sipi.usc.edu/database/
+
+
+*** 
+__Visual Concept Extraction Challenge in Radiology__
+ Manually annotated radiological data of several anatomical structures (e.g. kidney, lung, bladder, etc.) from several different imaging modalities (e.g. CT and MR). They also provide a cloud computing instance that anyone can use to develop and evaluate models against benchmarks.
+
+
+Access: http://www.visceral.eu/
+
+
+
+*** 
+__Grand Challenges in Biomedical Image Analysis__
+
+A collection of biomedical imaging challenges in order to _facilitate better comparisons between new and existing solutions_, by standardizing evaluation criteria. You can create your own challenge as well. As of this writing, there are 92 challenges that provide downloadable data sets.
+
+
+Access: http://www.grand-challenge.org/ 
+
+
+*** 
+__Kaggle diabetic retinopathy__
+
+High-resolution retinal images that are annotated on a 0–4 severity scale by clinicians, for the detection of diabetic retinopathy. This data set is part of a completed Kaggle competition, which is generally a great source for publicly available data sets.
+
+Access: https://www.kaggle.com/c/diabetic-retinopathy-detection
+
+
+***
+__International Symposium on Biomedical Imaging__
+2015\. Eight Grand Challenges presented at ISBI
+Access: http://biomedicalimaging.org/2015/program/isbi-challenges/
+
+
+***
+__Multiple sclerosis lesion segmentation__
+
+ challenge 2008\. A collection of brain MRI scans to detect MS lesions.
+
+Access: http://www.ia.unc.edu/MSseg/
+
+***
+__Multimodal Brain Tumor Segmentation Challenge__
+
+Large data set of brain tumor magnetic resonance scans. They’ve been extending this data set and challenge each year since 2012.
+
+Access: http://braintumorsegmentation.org/
+
+***
+__Coding4Cancer__
+
+A new initiative by the Foundation for the National Institutes of Health and Sage Bionetworks to host a series of challenges to improve cancer screening. The first is for digital mammography readings. The second is for lung cancer detection. The challenges are not yet launched.
+
+Access: http://coding4cancer.org/
+
+
 
 ## Data derived from Electronic Health Records (EHRs)
 

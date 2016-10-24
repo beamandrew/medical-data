@@ -313,7 +313,7 @@ Data: http://physionet.org/physiobank/database/mimic3cdb/
 
 ## National Healthcare Data  
 __Centers for Disease Control and Prevention (CDC)__  
-Data on from the CDC on many areas, including:  
+Data from the CDC on many areas, including:  
 - Biomonitoring
 - Child Vaccinations
 - Flu Vaccinations

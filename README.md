@@ -340,9 +340,13 @@ __Medicare Data__
 Data from the Centers for Medicare & Medicaid Services (CMS) on hospitals, nursing homes, physicians, home healthcare, dialysis, and device providers.  
 Landing page: https://data.medicare.gov  
 Explorer: https://data.medicare.gov/data  
+***
+__Texas Public Use Inpatient Data File__
+Data on 11 Million inpatient visits with diagnosis, procedure codes and outcomes from Texas between 2006 & 2009.
+
+Link: https://www.dshs.texas.gov/thcic/hospitals/Inpatientpudf.shtm
 
 ***
-
 __Dollars for Doctors__  
 Propublica investigation of money paid by pharmaceutical companies to doctors.  
 Information: https://www.propublica.org/series/dollars-for-docs  

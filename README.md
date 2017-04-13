@@ -79,6 +79,7 @@ Access: http://www.cancerimagingarchive.net/
 *** 
 
 __Belarus tuberculosis portal__
+
 Tuberculosis (TB) is a major problem of Belarus Public Health .Recently situation has been complicated with emergence and development of MDR/XDR TB and HIV/TB which require long-term treatment. Many and the most severe cases usually disseminate across the country to different TB dispensaries. The ability of leading Belarus TB specialists to follow such patients will be greatly improved by using a common database containing patients’ radiological images, lab work and clinical data. This will also significantly improve adherence to the treatment protocol and result in a better record of the treatment outcomes.
 Criteria for inclusion clinical cases in the database of the portal - patients admitted to the MDR-TB department of RSPC of Pulmonology and Tuberculosis with diagnosed or suspected of MDR-TB, which conducted CT – study (± 2 months from the date of registration)
 Belarus dataset have both chest X-rays and CT scans of the same patient. 
@@ -225,7 +226,18 @@ __Grand Challenges in Biomedical Image Analysis__
 A collection of biomedical imaging challenges in order to _facilitate better comparisons between new and existing solutions_, by standardizing evaluation criteria. You can create your own challenge as well. As of this writing, there are 92 challenges that provide downloadable data sets.
 
 Access: http://www.grand-challenge.org/ 
+***
 
+__Dream Challenges__
+
+DREAM Challenges pose fundamental questions about systems biology and translational medicine. Designed and run by a community of researchers from a variety of organizations, our challenges invite participants to propose solutions — fostering collaboration and building communities in the process. Expertise and institutional support are provided by Sage Bionetworks, along with the infrastructure to host challenges via their Synapse platform. Together, we share a vision allowing individuals and groups to collaborate openly so that the  “wisdom of the crowd” provides the greatest impact on science and human health.
+
+- The Digital Mammography DREAM Challenge.
+- ICGC-TCGA DREAM Somatic Mutation Calling RNA Challenge (SMC-RNA)
+- DREAM Idea Challenge 
+- These were the active challenges at the time of adding, many more past challenges and upcoming challenges are present!
+
+Access: http://dreamchallenges.org/
 
 *** 
 __Kaggle diabetic retinopathy__

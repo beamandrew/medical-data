@@ -254,12 +254,7 @@ In this kaggle competition, you will develop algorithms to correctly classify ce
 Access: https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data
 
 ***
-__International Symposium on Biomedical Imaging__
-2015\. Eight Grand Challenges presented at ISBI
-Access: http://biomedicalimaging.org/2015/program/isbi-challenges/
 
-
-***
 __Multiple sclerosis lesion segmentation__
 
  challenge 2008\. A collection of brain MRI scans to detect MS lesions.
@@ -298,6 +293,27 @@ Access: https://www.kaggle.com/c/seizure-detection
 - Grasp-and-Lift EEG Detection - Identify hand motions from EEG recordings 
 
 Access: https://www.kaggle.com/c/grasp-and-lift-eeg-detection
+
+***
+__Challenges track in MICCAI Conference__
+
+The Medical Image Computing and Computer Assisted Intervention. Most of the challenges would've been covered by websites like grand-challenges etc. You can still see all of them under the "Satellite Events" tab of the conference sites.
+
+- 2017 - http://www.miccai2017.org/satellite-events
+- 2016 - http://www.miccai2016.org/en/SATELLITE-EVENTS.html
+- 2015 - https://www.miccai2015.org/frontend/index.php?page_id=589
+
+Access: http://www.miccai.org/ConferenceHistory
+***
+__International Symposium on Biomedical Imaging (ISBI)__
+
+The IEEE International Symposium on Biomedical Imaging (ISBI) is a scientific conference dedicated to mathematical, algorithmic, and computational aspects of biomedical imaging, across all scales of observation. Most of these challenges will be listed in grand-challenges. You can still access it by visiting the "Challenges" tab under "Program" in each year's website.
+
+- 2017 - http://biomedicalimaging.org/2017/challenges/
+- 2016 - http://biomedicalimaging.org/2016/?page_id=416
+
+Access: http://biomedicalimaging.org
+
 
 ***
 

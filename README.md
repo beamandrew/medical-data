@@ -246,6 +246,12 @@ High-resolution retinal images that are annotated on a 0–4 severity scale by c
 
 Access: https://www.kaggle.com/c/diabetic-retinopathy-detection
 
+***
+__Cervical Cancer Screening__
+
+In this kaggle competition, you will develop algorithms to correctly classify cervix types based on cervical images. These different types of cervix in our data set are all considered normal (not cancerous), but since the transformation zones aren't always visible, some of the patients require further testing while some don't.
+
+Access: https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data
 
 ***
 __International Symposium on Biomedical Imaging__
@@ -273,6 +279,26 @@ __Coding4Cancer__
 A new initiative by the Foundation for the National Institutes of Health and Sage Bionetworks to host a series of challenges to improve cancer screening. The first is for digital mammography readings. The second is for lung cancer detection. The challenges are not yet launched.
 
 Access: http://coding4cancer.org/
+***
+
+__EEG Challenge Datasets on Kaggle__
+
+- Melbourne University AES/MathWorks/NIH Seizure Prediction - Predict seizures in long-term human intracranial EEG recordings 
+
+Access: https://www.kaggle.com/c/melbourne-university-seizure-prediction
+	
+- American Epilepsy Society Seizure Prediction Challenge - Predict seizures in intracranial EEG recordings 
+
+Access: https://www.kaggle.com/c/seizure-prediction
+	
+- UPenn and Mayo Clinic's Seizure Detection Challenge - Detect seizures in intracranial EEG recordings
+
+Access: https://www.kaggle.com/c/seizure-detection
+	
+- Grasp-and-Lift EEG Detection - Identify hand motions from EEG recordings 
+
+Access: https://www.kaggle.com/c/grasp-and-lift-eeg-detection
+
 ***
 
 ## 3. Data derived from Electronic Health Records (EHRs)

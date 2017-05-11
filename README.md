@@ -39,6 +39,18 @@ Defibrillators to Reduce Risk by Magnetic Resonance Imaging Evaluation, is a pro
 __MESA__
 Multi-Ethnic Study of Atherosclerosis, is a large-scale cardiovascular population study (>6,500 participants) conducted in six centres in the USA. It aims to investigate the manifestation of subclinical to clinical cardiovascular disease before...
 
+***
+
+__OASIS__
+The Open Access Series of Imaging Studies (OASIS) is a project aimed at making MRI data sets of the brain freely available to the scientific community. Two datasets are available: a cross-sectional and a longitudinal set.
+
+* Cross-sectional MRI Data in Young, Middle Aged, Nondemented and Demented Older Adults: This set consists of a cross-sectional collection of 416 subjects aged 18 to 96.  For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included.  The subjects are all right-handed and include both men and women.  100 of the included subjects over the age of 60 have been clinically diagnosed with very mild to moderate Alzheimer’s disease (AD).  Additionally, a reliability data set is included containing 20 nondemented subjects imaged on a subsequent visit within 90 days of their initial session.
+* Longitudinal MRI Data in Nondemented and Demented Older Adults: This set consists of a longitudinal collection of 150 subjects aged 60 to 96. Each subject was scanned on two or more visits, separated by at least one year for a total of 373 imaging sessions. For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included. The subjects are all right-handed and include both men and women. 72 of the subjects were characterized as nondemented throughout the study. 64 of the included subjects were characterized as demented at the time of their initial visits and remained so for subsequent scans, including 51 individuals with mild to moderate Alzheimer’s disease. Another 14 subjects were characterized as nondemented at the time of their initial visit and were subsequently characterized as demented at a later visit.
+
+Access: http://www.oasis-brains.org/ 
+
+***
+
 __SCMR Consensus Data__
 The SCMR Consensus Dataset is a set of 15 cardiac MRI studies of mixed pathologies (5 healthy, 6 myocardial infarction, 2 heart failure and 2 hypertrophy), which were acquired from different MR machines (4 GE, 5 Siemens, 6 Philips). The main objectives...
 

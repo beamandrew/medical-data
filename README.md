@@ -24,12 +24,10 @@ Access: http://adni.loni.usc.edu/data-samples/access-data/
 
 *** 
 
-***
-
-__Digital Retinal Images for Vessel Extraction (DRIVE)__
-The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images. It consists of 40 photographs out of which 7 showing signs of mild early diabetic retinopathy.
-Paper: http://www.isi.uu.nl/Research/Publications/publicationview/id=855.html
-Access: http://www.isi.uu.nl/Research/Databases/DRIVE/download.php
+__Digital Retinal Images for Vessel Extraction (DRIVE)__  
+The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images. It consists of 40 photographs out of which 7 showing signs of mild early diabetic retinopathy.  
+Paper: http://www.isi.uu.nl/Research/Publications/publicationview/id=855.html  
+Access: http://www.isi.uu.nl/Research/Databases/DRIVE/download.php  
 
 ***
 

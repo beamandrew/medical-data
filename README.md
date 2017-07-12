@@ -427,3 +427,22 @@ __PMC Open Access Subset__
 Collection of all the full-text, open access articles in Pubmed central.  
 Information: http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/  
 Archived files: http://www.ncbi.nlm.nih.gov/pmc/tools/ftp/#Data_Mining  
+
+## 6. TREC Precision Medicine / Clinical Decision Support Track
+Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014. 
+
+__2014 Clinical Decision Support Track__  
+Focus: Retrieval of biomedical articles relevant for answering generic clinical questions about medical records.  
+Information and Data: http://www.trec-cds.org/2014.html
+
+__2015 Clinical Decision Support Track__  
+Focus: Retrieval of biomedical articles relevant for answering generic clinical questions about medical records.  
+Information and Data: http://www.trec-cds.org/2015.html
+
+__2016 Clinical Decision Support Track__  
+Focus: Retrieval of biomedical articles relevant for answering generic clinical questions about medical records. Actual electronic health record (EHR) patient records are be used instead of synthetic cases.   
+Information and Data: http://www.trec-cds.org/2016.html
+
+__2017 Clinical Decision Support Track__  
+Focus: Retrieve useful precision medicine-related information to clinicians treating cancer patients.  
+Information and Data: http://www.trec-cds.org/2017.html

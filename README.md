@@ -428,6 +428,11 @@ Collection of all the full-text, open access articles in Pubmed central.
 Information: http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/  
 Archived files: http://www.ncbi.nlm.nih.gov/pmc/tools/ftp/#Data_Mining  
 
+__PubMed 200k RCT__
+Collection of pubmed abstracts from randomized control trials (RCTs). Annotations for each sentence in the abstract are available.
+Paper: https://arxiv.org/abs/1710.06071
+Data: https://github.com/Franck-Dernoncourt/pubmed-rct
+
 ## 6. TREC Precision Medicine / Clinical Decision Support Track
 Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014. 
 

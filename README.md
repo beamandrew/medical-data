@@ -457,7 +457,7 @@ Information and Data: http://www.trec-cds.org/2017.html
 
 ## 7. Medical Speech Data
 __The TORGO Database: Acoustic and articulatory speech from speakers with dysarthria__  
-he TORGO database of dysarthric articulation consists of aligned acoustics and measured 3D articulatory features from speakers with either cerebral palsy (CP) or amyotrophic lateral sclerosis (ALS), which are two of the most prevalent causes of speech disability (Kent and Rosen, 2004), and matched controls. This database, called TORGO, is the result of a collaboration between the departments of Computer Science and Speech-Language Pathology at the University of Toronto and the Holland-Bloorview Kids Rehab hospital in Toronto.__.  
+The TORGO database of dysarthric articulation consists of aligned acoustics and measured 3D articulatory features from speakers with either cerebral palsy (CP) or amyotrophic lateral sclerosis (ALS), which are two of the most prevalent causes of speech disability (Kent and Rosen, 2004), and matched controls. This database, called TORGO, is the result of a collaboration between the departments of Computer Science and Speech-Language Pathology at the University of Toronto and the Holland-Bloorview Kids Rehab hospital in Toronto.__.  
 Information: http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html  
 Paper: [link](https://www.researchgate.net/publication/225446742_The_TORGO_database_of_acoustic_and_articulatory_speech_from_speakers_with_dysarthria)
 ***
@@ -466,3 +466,19 @@ __NKI-CCRT Corpus: Speech Intelligibility Before and After Advanced Head and Nec
  NKI-CCRT corpus with individual listener judgements on the intelligibility of recordings of 55 speakers treated for cancer of the head and neck will be made available for restricted scientific use. The corpus contains recordings and perceptual evaluations of speech intelligibility over three evaluation moments: before treatment and after treatment (10-weeks and 12-months). Treatment was by means of chemoradiotherapy (CCRT).__.    
 Paper: http://lrec.elra.info/proceedings/lrec2012/pdf/230_Paper.pdf
 Access: Contact authors.
+
+
+***
+
+__Atypical Affect Interspeech Sub-Challenge___
+  Björn Schuller, Simone Hantke, and colleagues are providing the EMOTASS Corpus. This unique corpus is the first to give access to recordings of affective speech from disabled individuals encompassing a broader variety of mental, neurological, and physical disabilities. It comprises recordings of 15 disabled adult individuals (ages range from 19 to 58 years with a mean age of 31.6 years). The task will be classification of five emotions from their speech facing atypical display. Recordings were made in their everyday working environment. Overall, around 11k utterances and around nine hours of speech are included.     
+Paper: http://emotion-research.net/sigs/speech-sig/is2018_compare.pdf
+Link: http://emotion-research.net/sigs/speech-sig/is18-compare.
+
+
+***
+
+__Autism Sub-Challenge___
+The Autism Sub-Challenge is based upon the “Child Pathological Speech Database” (CPSD) . It provides speech as recorded in two university departments of child and adolescent psychiatry, located in Paris, France (Universite Pierre et Marie Curie/Pitie Salpetiere Hospital and Universite Rene Descartes/Necker Hospital). The dataset used in the Sub-Challenge contains 2.5 k instances of speech recordings from 99 children aged 6 to 18
+Paper: http://emotion-research.net/sigs/speech-sig/is2013_compare.pdf
+Link: http://emotion-research.net/sigs/speech-sig/is18-compare.

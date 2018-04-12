@@ -481,4 +481,4 @@ Link: http://emotion-research.net/sigs/speech-sig/is18-compare.
 __Autism Sub-Challenge___
 The Autism Sub-Challenge is based upon the “Child Pathological Speech Database” (CPSD) . It provides speech as recorded in two university departments of child and adolescent psychiatry, located in Paris, France (Universite Pierre et Marie Curie/Pitie Salpetiere Hospital and Universite Rene Descartes/Necker Hospital). The dataset used in the Sub-Challenge contains 2.5 k instances of speech recordings from 99 children aged 6 to 18
 Paper: http://emotion-research.net/sigs/speech-sig/is2013_compare.pdf
-Link: http://emotion-research.net/sigs/speech-sig/is18-compare.
+Link: http://emotion-research.net/sigs/speech-sig/is13-compare.

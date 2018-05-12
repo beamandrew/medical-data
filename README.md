@@ -84,8 +84,7 @@ Specifically, the LIDC initiative aims were to provide:
 This resource will stimulate further database development for image processing and CAD evaluation for applications that include cancer screening, diagnosis, and image guided intervention, and treatment. Therefore, the NCI encourages investigator-initiated grant applications that utilize the database in their research. NCI also encourages investigator-initiated grant applications that provide tools or methodology that may improve or complement the mission of the LIDC.
 
 
-Access: http://imaging.cancer.gov/programsandresources/informationsystems/lidc
-
+Access: https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#
 ***
 
 __TCIA Collections__

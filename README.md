@@ -354,6 +354,12 @@ Anonymized critical care EHR database on 38,597 patients and 53,423 ICU admissio
 Paper: http://www.nature.com/articles/sdata201635  
 Data: http://physionet.org/physiobank/database/mimic3cdb/  
 ***
+__Clinical Concept Embeddings Learned from Massive Sources of Medical Data__  
+Embeddings for 108,477 medical concepts learned from 60 million patients, 1.7 million journal articles, and clinical notes of 20 million patients 
+Paper: https://arxiv.org/abs/1804.01486
+Embeddings:  https://figshare.com/s/00d69861786cd0156d81
+Interactive tool: http://cui2vec.dbmi.hms.harvard.edu
+***
 
 ## 4. National Healthcare Data  
 __Centers for Disease Control and Prevention (CDC)__  

@@ -22,7 +22,7 @@ MRI database on Alzheimer's patients and healthy controls. Also has clinical, ge
 Paper: http://www.neurology.org/content/74/3/201.short  
 Access: http://adni.loni.usc.edu/data-samples/access-data/
 
-*** 
+***
 
 __Digital Retinal Images for Vessel Extraction (DRIVE)__  
 The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images. It consists of 40 photographs out of which 7 showing signs of mild early diabetic retinopathy.  
@@ -54,7 +54,7 @@ The Open Access Series of Imaging Studies (OASIS) is a project aimed at making M
 * Cross-sectional MRI Data in Young, Middle Aged, Nondemented and Demented Older Adults: This set consists of a cross-sectional collection of 416 subjects aged 18 to 96.  For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included.  The subjects are all right-handed and include both men and women.  100 of the included subjects over the age of 60 have been clinically diagnosed with very mild to moderate Alzheimer’s disease (AD).  Additionally, a reliability data set is included containing 20 nondemented subjects imaged on a subsequent visit within 90 days of their initial session.
 * Longitudinal MRI Data in Nondemented and Demented Older Adults: This set consists of a longitudinal collection of 150 subjects aged 60 to 96. Each subject was scanned on two or more visits, separated by at least one year for a total of 373 imaging sessions. For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included. The subjects are all right-handed and include both men and women. 72 of the subjects were characterized as nondemented throughout the study. 64 of the included subjects were characterized as demented at the time of their initial visits and remained so for subsequent scans, including 51 individuals with mild to moderate Alzheimer’s disease. Another 14 subjects were characterized as nondemented at the time of their initial visit and were subsequently characterized as demented at a later visit.
 
-Access: http://www.oasis-brains.org/ 
+Access: http://www.oasis-brains.org/
 
 ***
 
@@ -90,30 +90,30 @@ Access: https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#
 __TCIA Collections__
 
 Cancer imaging data sets across various cancer types (e.g. carcinoma, lung cancer, myeloma) and various imaging modalities.
-The image data in The Cancer Imaging Archive (TCIA) is organized into purpose-built collections of subjects. The subjects typically have a cancer type and/or anatomical site (lung, brain, etc.) in common. Each link in the table below contains information concerning the scientific value of a collection, information about how to obtain any supporting non-image data which may be available, and links to view or download the imaging data. To support reproducibility in scientific research, TCIA supports Digital Object Identifiers (DOIs) which allow users to share subsets of TCIA data referenced in a research manuscript. 
+The image data in The Cancer Imaging Archive (TCIA) is organized into purpose-built collections of subjects. The subjects typically have a cancer type and/or anatomical site (lung, brain, etc.) in common. Each link in the table below contains information concerning the scientific value of a collection, information about how to obtain any supporting non-image data which may be available, and links to view or download the imaging data. To support reproducibility in scientific research, TCIA supports Digital Object Identifiers (DOIs) which allow users to share subsets of TCIA data referenced in a research manuscript.
 
 Access: http://www.cancerimagingarchive.net/
 
-*** 
+***
 
 __Belarus tuberculosis portal__
 
 Tuberculosis (TB) is a major problem of Belarus Public Health .Recently situation has been complicated with emergence and development of MDR/XDR TB and HIV/TB which require long-term treatment. Many and the most severe cases usually disseminate across the country to different TB dispensaries. The ability of leading Belarus TB specialists to follow such patients will be greatly improved by using a common database containing patients’ radiological images, lab work and clinical data. This will also significantly improve adherence to the treatment protocol and result in a better record of the treatment outcomes.
 Criteria for inclusion clinical cases in the database of the portal - patients admitted to the MDR-TB department of RSPC of Pulmonology and Tuberculosis with diagnosed or suspected of MDR-TB, which conducted CT – study (± 2 months from the date of registration)
-Belarus dataset have both chest X-rays and CT scans of the same patient. 
+Belarus dataset have both chest X-rays and CT scans of the same patient.
 
 Access: http://tuberculosis.by/
 
-*** 
+***
 
 __DDSM: Digital Database for Screening Mammography__
 
- The Digital Database for Screening Mammography (DDSM) is a resource for use by the mammographic image analysis research community. Primary support for this project was a grant from the Breast Cancer Research Program of the U.S. Army Medical Research and Materiel Command. The DDSM project is a collaborative effort involving co-p.i.s at the Massachusetts General Hospital (D. Kopans, R. Moore), the University of South Florida (K. Bowyer), and Sandia National Laboratories (P. Kegelmeyer). Additional cases from Washington University School of Medicine were provided by Peter E. Shile, MD, Assistant Professor of Radiology and Internal Medicine. Additional collaborating institutions include Wake Forest University School of Medicine (Departments of Medical Engineering and Radiology), Sacred Heart Hospital and ISMD, Incorporated. The primary purpose of the database is to facilitate sound research in the development of computer algorithms to aid in screening. Secondary purposes of the database may include the development of algorithms to aid in the diagnosis and the development of teaching or training aids. The database contains approximately 2,500 studies. Each study includes two images of each breast, along with some associated patient information (age at time of study, ACR breast density rating, subtlety rating for abnormalities, ACR keyword description of abnormalities) and image information (scanner, spatial resolution, ...). Images containing suspicious areas have associated pixel-level "ground truth" information about the locations and types of suspicious regions. Also provided are software both for accessing the mammogram and truth images and for calculating performance figures for automated image analysis algorithms. 
+ The Digital Database for Screening Mammography (DDSM) is a resource for use by the mammographic image analysis research community. Primary support for this project was a grant from the Breast Cancer Research Program of the U.S. Army Medical Research and Materiel Command. The DDSM project is a collaborative effort involving co-p.i.s at the Massachusetts General Hospital (D. Kopans, R. Moore), the University of South Florida (K. Bowyer), and Sandia National Laboratories (P. Kegelmeyer). Additional cases from Washington University School of Medicine were provided by Peter E. Shile, MD, Assistant Professor of Radiology and Internal Medicine. Additional collaborating institutions include Wake Forest University School of Medicine (Departments of Medical Engineering and Radiology), Sacred Heart Hospital and ISMD, Incorporated. The primary purpose of the database is to facilitate sound research in the development of computer algorithms to aid in screening. Secondary purposes of the database may include the development of algorithms to aid in the diagnosis and the development of teaching or training aids. The database contains approximately 2,500 studies. Each study includes two images of each breast, along with some associated patient information (age at time of study, ACR breast density rating, subtlety rating for abnormalities, ACR keyword description of abnormalities) and image information (scanner, spatial resolution, ...). Images containing suspicious areas have associated pixel-level "ground truth" information about the locations and types of suspicious regions. Also provided are software both for accessing the mammogram and truth images and for calculating performance figures for automated image analysis algorithms.
 
 
 Access: http://marathon.csee.usf.edu/Mammography/Database.html
 
-*** 
+***
 
 __INbreast: Database for Digital Mammography__
 
@@ -143,7 +143,7 @@ Access: http://www.medinfo.cs.ucy.ac.cy/index.php/downloads/datasets
 
 - __Needle EMG MUAP Time Domain Features__
 
-*** 
+***
 
 __DICOM image sample sets__
 These datasets are exclusively available for research and teaching. You are not authorized to redistribute or sell them, or use them for commercial purposes.
@@ -153,13 +153,13 @@ All these DICOM files are compressed in JPEG2000 transfer syntax.
 
 Access: http://www.osirix-viewer.com/resources/dicom-image-library/
 
-*** 
+***
 __SCR database: Segmentation in Chest Radiographs__
 
 
 The automatic segmentation of anatomical structures in chest radiographs is of great importance for computer-aided diagnosis in these images. The SCR database has been established to facilitate comparative studies on segmentation of the lung fields, the heart and the clavicles in standard posterior-anterior chest radiographs.
 
-In the spirit of cooperative scientific progress, we freely share the SCR database and are committed to maintaining a public repository of results of various algorithms on these segmentation tasks. On thes pages, instructions can be found on downloading the database and uploading results, and benchmark results of various methods can be inspected. 
+In the spirit of cooperative scientific progress, we freely share the SCR database and are committed to maintaining a public repository of results of various algorithms on these segmentation tasks. On thes pages, instructions can be found on downloading the database and uploading results, and benchmark results of various methods can be inspected.
 
 Access: http://www.isi.uu.nl/Research/Databases/SCR/
 
@@ -212,7 +212,7 @@ __Medical Image Databases & Libraries__
 
 - MedPix Is a Radiology and Medical Picture Databases resource tool. The home page interface is confusing and the entire website design is not user-friendly and has a mid 1990s feel to it. However, if you have the time (patience) it could prove to be an important resource for some.
 
-- OBGYN.net Image Library - This site is devoted entirely to providing access to images of interest to women's health. In addition to providing you with access to OBGYN.net images we also point to other women's health related images on the Internet. Because of the graphic nature of the material some individuals may prefer not to view these images.They are provided for educational purposes only. 
+- OBGYN.net Image Library - This site is devoted entirely to providing access to images of interest to women's health. In addition to providing you with access to OBGYN.net images we also point to other women's health related images on the Internet. Because of the graphic nature of the material some individuals may prefer not to view these images.They are provided for educational purposes only.
 
 
 ***
@@ -240,7 +240,7 @@ The database is divided into volumes based on the basic character of the picture
 Access: http://sipi.usc.edu/database/
 
 
-*** 
+***
 ## 2. Challenges/Contest Data
 
 __Visual Concept Extraction Challenge in Radiology__
@@ -248,12 +248,12 @@ __Visual Concept Extraction Challenge in Radiology__
 
 Access: http://www.visceral.eu/
 
-*** 
+***
 __Grand Challenges in Biomedical Image Analysis__
 
 A collection of biomedical imaging challenges in order to _facilitate better comparisons between new and existing solutions_, by standardizing evaluation criteria. You can create your own challenge as well. As of this writing, there are 92 challenges that provide downloadable data sets.
 
-Access: http://www.grand-challenge.org/ 
+Access: http://www.grand-challenge.org/
 ***
 
 __Dream Challenges__
@@ -262,12 +262,12 @@ DREAM Challenges pose fundamental questions about systems biology and translatio
 
 - The Digital Mammography DREAM Challenge.
 - ICGC-TCGA DREAM Somatic Mutation Calling RNA Challenge (SMC-RNA)
-- DREAM Idea Challenge 
+- DREAM Idea Challenge
 - These were the active challenges at the time of adding, many more past challenges and upcoming challenges are present!
 
 Access: http://dreamchallenges.org/
 
-*** 
+***
 __Kaggle diabetic retinopathy__
 
 High-resolution retinal images that are annotated on a 0–4 severity scale by clinicians, for the detection of diabetic retinopathy. This data set is part of a completed Kaggle competition, which is generally a great source for publicly available data sets.
@@ -306,19 +306,19 @@ Access: http://coding4cancer.org/
 
 __EEG Challenge Datasets on Kaggle__
 
-- Melbourne University AES/MathWorks/NIH Seizure Prediction - Predict seizures in long-term human intracranial EEG recordings 
+- Melbourne University AES/MathWorks/NIH Seizure Prediction - Predict seizures in long-term human intracranial EEG recordings
 
 Access: https://www.kaggle.com/c/melbourne-university-seizure-prediction
-	
-- American Epilepsy Society Seizure Prediction Challenge - Predict seizures in intracranial EEG recordings 
+
+- American Epilepsy Society Seizure Prediction Challenge - Predict seizures in intracranial EEG recordings
 
 Access: https://www.kaggle.com/c/seizure-prediction
-	
+
 - UPenn and Mayo Clinic's Seizure Detection Challenge - Detect seizures in intracranial EEG recordings
 
 Access: https://www.kaggle.com/c/seizure-detection
-	
-- Grasp-and-Lift EEG Detection - Identify hand motions from EEG recordings 
+
+- Grasp-and-Lift EEG Detection - Identify hand motions from EEG recordings
 
 Access: https://www.kaggle.com/c/grasp-and-lift-eeg-detection
 
@@ -438,7 +438,7 @@ Data: https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 __Lymphography Data Set__  
 Data: https://archive.ics.uci.edu/ml/datasets/Lymphography  
 
-## 6. Biomedical Literature 
+## 6. Biomedical Literature
 __PMC Open Access Subset__  
 Collection of all the full-text, open access articles in Pubmed central.  
 Information: http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/  
@@ -453,7 +453,7 @@ Paper: https://arxiv.org/abs/1710.06071
 Data: https://github.com/Franck-Dernoncourt/pubmed-rct
 
 ## 6. TREC Precision Medicine / Clinical Decision Support Track
-Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014. 
+Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014.
 
 __2014 Clinical Decision Support Track__  
 Focus: Retrieval of biomedical articles relevant for answering generic clinical questions about medical records.  
@@ -470,3 +470,41 @@ Information and Data: http://www.trec-cds.org/2016.html
 __2017 Clinical Decision Support Track__  
 Focus: Retrieve useful precision medicine-related information to clinicians treating cancer patients.  
 Information and Data: http://www.trec-cds.org/2017.html
+
+## 7. Medical Speech Data
+__The TORGO Database: Acoustic and articulatory speech from speakers with dysarthria__  
+The TORGO database of dysarthric articulation consists of aligned acoustics and measured 3D articulatory features from speakers with either cerebral palsy (CP) or amyotrophic lateral sclerosis (ALS), which are two of the most prevalent causes of speech disability (Kent and Rosen, 2004), and matched controls. This database, called TORGO, is the result of a collaboration between the departments of Computer Science and Speech-Language Pathology at the University of Toronto and the Holland-Bloorview Kids Rehab hospital in Toronto.
+
+Information and data: http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html  
+
+Paper: [link](https://www.researchgate.net/publication/225446742_The_TORGO_database_of_acoustic_and_articulatory_speech_from_speakers_with_dysarthria)
+***
+
+__NKI-CCRT Corpus: Speech Intelligibility Before and After Advanced Head and Neck Cancer Treated with Concomitant Chemoradiotherapy.__  
+ NKI-CCRT corpus with individual listener judgements on the intelligibility of recordings of 55 speakers treated for cancer of the head and neck will be made available for restricted scientific use. The corpus contains recordings and perceptual evaluations of speech intelligibility over three evaluation moments: before treatment and after treatment (10-weeks and 12-months). Treatment was by means of chemoradiotherapy (CCRT).
+
+Paper: http://lrec.elra.info/proceedings/lrec2012/pdf/230_Paper.pdf
+
+Access: Contact authors.
+
+
+***
+
+__Atypical Affect Interspeech Sub-Challenge__
+
+  Björn Schuller, Simone Hantke, and colleagues are providing the EMOTASS Corpus. This unique corpus is the first to give access to recordings of affective speech from disabled individuals encompassing a broader variety of mental, neurological, and physical disabilities. It comprises recordings of 15 disabled adult individuals (ages range from 19 to 58 years with a mean age of 31.6 years). The task will be classification of five emotions from their speech facing atypical display. Recordings were made in their everyday working environment. Overall, around 11k utterances and around nine hours of speech are included.     
+
+Paper: http://emotion-research.net/sigs/speech-sig/is2018_compare.pdf
+
+Link: http://emotion-research.net/sigs/speech-sig/is18-compare.
+
+
+***
+
+__Autism Sub-Challenge__
+
+The Autism Sub-Challenge is based upon the “Child Pathological Speech Database” (CPSD) . It provides speech as recorded in two university departments of child and adolescent psychiatry, located in Paris, France (Universite Pierre et Marie Curie/Pitie Salpetiere Hospital and Universite Rene Descartes/Necker Hospital). The dataset used in the Sub-Challenge contains 2.5 k instances of speech recordings from 99 children aged 6 to 18
+
+Paper: http://emotion-research.net/sigs/speech-sig/is2013_compare.pdf
+
+Link: http://emotion-research.net/sigs/speech-sig/is13-compare.

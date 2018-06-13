@@ -115,6 +115,16 @@ Access: http://marathon.csee.usf.edu/Mammography/Database.html
 
 *** 
 
+__INbreast: Database for Digital Mammography__
+
+The INbreast database is a mammographic database, with images acquired at a Breast Centre, located in a University Hospital (Hospital de São João, Breast Centre, Porto, Portugal). INbreast has a total of 115 cases (410 images) of which 90 cases are from women with both breasts (4 images per case) and 25 cases are from mastectomy patients (2 images per case). Several types of lesions (masses, calcifications, asymmetries, and distortions) are included. Accurate contours made by specialists are also provided in XML format. 
+
+
+Access: http://medicalresearch.inescporto.pt/breastresearch/index.php/Get_INbreast_Database
+
+*** 
+
+
 __Prostate__
 
 Prostate cancer (CaP) has been reported on a worldwide scale to be the second most frequently diagnosed cancer of men accounting for 13.6% (Ferlay et al. (2010)). Statistically, in 2008, the number of new diagnosed cases was estimated to be 899, 000 with no less than 258, 100 deaths (Ferlay et al. (2010)).

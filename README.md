@@ -239,8 +239,15 @@ The database is divided into volumes based on the basic character of the picture
 
 Access: http://sipi.usc.edu/database/
 
+***
+__Histology dataset: image registration of differently stain slices__
+
+ The dataset consists of 2D histological microscopy tissue slices, stained with different stains, and landmarks denoting key-points in each slice. The task is image registration - align all slices in particular set of images (consecutive stain cuts) together, for instance to the initial image plane. The main challenges for these images are the following: very large image size, appearance differences, and lack of distinctive appearance objects. The dataset contains 108 image pairs and manually placed landmarks for registration quality evaluation.
+ 
+Access: http://cmp.felk.cvut.cz/~borovji3/?page=dataset
 
 ***
+
 ## 2. Challenges/Contest Data
 
 __Visual Concept Extraction Challenge in Radiology__
@@ -332,7 +339,9 @@ The Medical Image Computing and Computer Assisted Intervention. Most of the chal
 - 2015 - https://www.miccai2015.org/frontend/index.php?page_id=589
 
 Access: http://www.miccai.org/ConferenceHistory
+
 ***
+
 __International Symposium on Biomedical Imaging (ISBI)__
 
 The IEEE International Symposium on Biomedical Imaging (ISBI) is a scientific conference dedicated to mathematical, algorithmic, and computational aspects of biomedical imaging, across all scales of observation. Most of these challenges will be listed in grand-challenges. You can still access it by visiting the "Challenges" tab under "Program" in each year's website.
@@ -342,6 +351,14 @@ The IEEE International Symposium on Biomedical Imaging (ISBI) is a scientific co
 
 Access: http://biomedicalimaging.org
 
+***
+
+__Continuous Registration Challenge (CRC)__
+
+Continuous Registration Challenge (CRC) is a challenge for registration of lung- and brain images inspired by modern software development practices. Participants implement their algorithm using the open source SuperElastix C++ API.
+The challenge focuses on pairwise registration of lungs and brains, two problems frequently encountered in clinical settings. They have collected seven open-access data sets and one private data set (3+1 lung data sets, 4 brain data sets). The challenge results will be presented and discussed at the upcoming Workshop On Biomedical Image Registration (WBIR 2018).
+
+Access: https://continuousregistration.grand-challenge.org/home/
 
 ***
 

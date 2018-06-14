@@ -122,6 +122,15 @@ The INbreast database is a mammographic database, with images acquired at a Brea
 
 Access: http://medicalresearch.inescporto.pt/breastresearch/index.php/Get_INbreast_Database
 
+***
+
+__mini-MIAS: MIAS MiniMammographic Database__
+
+The Mammographic Image Analysis Society (MIAS) is an organisation of UK research groups interested in the understanding of mammograms and has generated a database of digital mammograms. Films taken from the UK National Breast Screening Programme have been digitised to 50 micron pixel edge with a Joyce-Loebl scanning microdensitometer, a device linear in the optical density range 0-3.2 and representing each pixel with an 8-bit word. The database contains 322 digitised films and is available on 2.3GB 8mm (ExaByte) tape. It also includes radiologist's "truth"-markings on the locations of any abnormalities that may be present. The database has been reduced to a 200 micron pixel edge and padded/clipped so that all the images are 1024x1024. Mammographic images are available via the Pilot European Image Processing Archive (PEIPA) at the University of Essex. 
+
+
+Access: http://peipa.essex.ac.uk/info/mias.html
+
 *** 
 
 

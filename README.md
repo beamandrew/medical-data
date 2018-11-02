@@ -502,6 +502,7 @@ Paper: https://arxiv.org/abs/1710.06071
 Data: https://github.com/Franck-Dernoncourt/pubmed-rct
 
 __Web API of PubMed Articles__
+
 NLM also provided Web API for accessing biomedical literatures in PubMed.
 
 Instructions for getting PubMed articles: https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PubMed/ (not full text, just title, abstract, etc.)

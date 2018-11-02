@@ -503,7 +503,9 @@ Data: https://github.com/Franck-Dernoncourt/pubmed-rct
 
 __Web API of PubMed Articles__
 NLM also provided Web API for accessing biomedical literatures in PubMed.
+
 Instructions for getting PubMed articles: https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PubMed/ (not full text, just title, abstract, etc.)
+
 For articles in PubMed Central, instructions for getting the whole articles: https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PMC/
 
 ## 6. TREC Precision Medicine / Clinical Decision Support Track

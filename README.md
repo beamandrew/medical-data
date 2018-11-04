@@ -501,6 +501,14 @@ Paper: https://arxiv.org/abs/1710.06071
 
 Data: https://github.com/Franck-Dernoncourt/pubmed-rct
 
+__Web API of PubMed Articles__
+
+NLM also provided Web API for accessing biomedical literatures in PubMed.
+
+Instructions for getting PubMed articles: https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PubMed/ (not full text, just title, abstract, etc.)
+
+For articles in PubMed Central, instructions for getting the whole articles: https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PMC/
+
 ## 6. TREC Precision Medicine / Clinical Decision Support Track
 Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014.
 

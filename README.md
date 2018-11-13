@@ -64,6 +64,15 @@ Access: http://www.oasis-brains.org/
 
 ***
 
+__Isic Archive - Melanoma__
+This archive cotains 23k images of classified skin lesions. It contains both malignant and benign examples.  
+Each example cotains the image of the lesion, meta data regarding the lesion (including clasisfication and segmentation) and meta data regarding the patient.  
+The data can be viewed in this link: https://www.isic-archive.com (in the gallery section)  
+It can be downloaded through the site or by using this repository:   
+https://github.com/GalAvineri/ISIC-Archive-Downloader  
+
+***
+
 __SCMR Consensus Data__
 The SCMR Consensus Dataset is a set of 15 cardiac MRI studies of mixed pathologies (5 healthy, 6 myocardial infarction, 2 heart failure and 2 hypertrophy), which were acquired from different MR machines (4 GE, 5 Siemens, 6 Philips). The main objectives...
 

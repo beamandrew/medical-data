@@ -24,9 +24,15 @@ Access: http://adni.loni.usc.edu/data-samples/access-data/
 
 ***
 
+__CT Colongraphy for Colon Cancer (Cancer Imaging Archive)__
+CT scan for diagnosing of colon cancer. Includes data for patients without polyps, 6-9mm polyps, and greater than 10 mm polyps.
+Access: https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc149b9170f54aa29e88f1119e25ba3e
+
+***
+
 __Digital Retinal Images for Vessel Extraction (DRIVE)__  
 The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images. It consists of 40 photographs out of which 7 showing signs of mild early diabetic retinopathy.  
-Paper: http://www.isi.uu.nl/Research/Publications/publicationview/id=855.html  
+Paper: https://ieeexplore.ieee.org/document/1282003  
 Access: http://www.isi.uu.nl/Research/Databases/DRIVE/download.php  
 
 ***
@@ -55,6 +61,15 @@ The Open Access Series of Imaging Studies (OASIS) is a project aimed at making M
 * Longitudinal MRI Data in Nondemented and Demented Older Adults: This set consists of a longitudinal collection of 150 subjects aged 60 to 96. Each subject was scanned on two or more visits, separated by at least one year for a total of 373 imaging sessions. For each subject, 3 or 4 individual T1-weighted MRI scans obtained in single scan sessions are included. The subjects are all right-handed and include both men and women. 72 of the subjects were characterized as nondemented throughout the study. 64 of the included subjects were characterized as demented at the time of their initial visits and remained so for subsequent scans, including 51 individuals with mild to moderate Alzheimer’s disease. Another 14 subjects were characterized as nondemented at the time of their initial visit and were subsequently characterized as demented at a later visit.
 
 Access: http://www.oasis-brains.org/
+
+***
+
+__Isic Archive - Melanoma__
+This archive cotains 23k images of classified skin lesions. It contains both malignant and benign examples.  
+Each example cotains the image of the lesion, meta data regarding the lesion (including clasisfication and segmentation) and meta data regarding the patient.  
+The data can be viewed in this link: https://www.isic-archive.com (in the gallery section)  
+It can be downloaded through the site or by using this repository:   
+https://github.com/GalAvineri/ISIC-Archive-Downloader  
 
 ***
 
@@ -142,7 +157,7 @@ Magnetic resonance imaging (MRI) provides imaging techniques allowing to diagnos
 Access: http://i2cvb.github.io/
 
 ***
-Access: http://www.medinfo.cs.ucy.ac.cy/index.php/downloads/datasets
+Access: http://www.medinfo.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets
 
 - __MRI Lesion Segmentation in Multiple Sclerosis Database__
 
@@ -494,6 +509,14 @@ Collection of pubmed abstracts from randomized control trials (RCTs). Annotation
 Paper: https://arxiv.org/abs/1710.06071
 
 Data: https://github.com/Franck-Dernoncourt/pubmed-rct
+
+__Web API of PubMed Articles__
+
+NLM also provided Web API for accessing biomedical literatures in PubMed.
+
+Instructions for getting PubMed articles: https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PubMed/ (not full text, just title, abstract, etc.)
+
+For articles in PubMed Central, instructions for getting the whole articles: https://www.ncbi.nlm.nih.gov/research/bionlp/APIs/BioC-PMC/
 
 ## 6. TREC Precision Medicine / Clinical Decision Support Track
 Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014.

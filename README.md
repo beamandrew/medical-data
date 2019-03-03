@@ -65,8 +65,8 @@ Access: http://www.oasis-brains.org/
 ***
 
 __Isic Archive - Melanoma__
-This archive cotains 23k images of classified skin lesions. It contains both malignant and benign examples.  
-Each example cotains the image of the lesion, meta data regarding the lesion (including clasisfication and segmentation) and meta data regarding the patient.  
+This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.  
+Each example contains the image of the lesion, meta data regarding the lesion (including clasisfication and segmentation) and meta data regarding the patient.  
 The data can be viewed in this link: https://www.isic-archive.com (in the gallery section)  
 It can be downloaded through the site or by using this repository:   
 https://github.com/GalAvineri/ISIC-Archive-Downloader  

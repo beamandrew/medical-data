@@ -157,7 +157,7 @@ Magnetic resonance imaging (MRI) provides imaging techniques allowing to diagnos
 Access: http://i2cvb.github.io/
 
 ***
-Access: http://www.medinfo.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets
+Access: http://www.ehealthlab.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets
 
 - __MRI Lesion Segmentation in Multiple Sclerosis Database__
 

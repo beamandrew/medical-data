@@ -65,8 +65,8 @@ Access: http://www.oasis-brains.org/
 ***
 
 __Isic Archive - Melanoma__
-This archive cotains 23k images of classified skin lesions. It contains both malignant and benign examples.  
-Each example cotains the image of the lesion, meta data regarding the lesion (including clasisfication and segmentation) and meta data regarding the patient.  
+This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.  
+Each example contains the image of the lesion, meta data regarding the lesion (including classification and segmentation) and meta data regarding the patient.  
 The data can be viewed in this link: https://www.isic-archive.com (in the gallery section)  
 It can be downloaded through the site or by using this repository:   
 https://github.com/GalAvineri/ISIC-Archive-Downloader  
@@ -78,7 +78,7 @@ The SCMR Consensus Dataset is a set of 15 cardiac MRI studies of mixed pathologi
 
 
 __Sunnybrook Cardiac Data__
-The Sunnybrook Cardiac Data (SCD) , also known as the 2009 Cardiac MR Left Ventricle Segmentation Challenge data, consist of 45 cine-MRI images from a mixed of patients and pathologies: healthy , hypertrophy , heart failure with infarction and heart...
+The Sunnybrook Cardiac Data (SCD), also known as the 2009 Cardiac MR Left Ventricle Segmentation Challenge data, consist of 45 cine-MRI images from a mixed of patients and pathologies: healthy, hypertrophy, heart failure with infarction and heart...
 
 Access: http://www.cardiacatlas.org/studies/
 
@@ -113,7 +113,7 @@ Access: http://www.cancerimagingarchive.net/
 
 __Belarus tuberculosis portal__
 
-Tuberculosis (TB) is a major problem of Belarus Public Health .Recently situation has been complicated with emergence and development of MDR/XDR TB and HIV/TB which require long-term treatment. Many and the most severe cases usually disseminate across the country to different TB dispensaries. The ability of leading Belarus TB specialists to follow such patients will be greatly improved by using a common database containing patients’ radiological images, lab work and clinical data. This will also significantly improve adherence to the treatment protocol and result in a better record of the treatment outcomes.
+Tuberculosis (TB) is a major problem of Belarus Public Health. Recently situation has been complicated with emergence and development of MDR/XDR TB and HIV/TB which require long-term treatment. Many and the most severe cases usually disseminate across the country to different TB dispensaries. The ability of leading Belarus TB specialists to follow such patients will be greatly improved by using a common database containing patients’ radiological images, lab work and clinical data. This will also significantly improve adherence to the treatment protocol and result in a better record of the treatment outcomes.
 Criteria for inclusion clinical cases in the database of the portal - patients admitted to the MDR-TB department of RSPC of Pulmonology and Tuberculosis with diagnosed or suspected of MDR-TB, which conducted CT – study (± 2 months from the date of registration)
 Belarus dataset have both chest X-rays and CT scans of the same patient.
 
@@ -151,7 +151,7 @@ Access: http://peipa.essex.ac.uk/info/mias.html
 
 __Prostate__
 
-Prostate cancer (CaP) has been reported on a worldwide scale to be the second most frequently diagnosed cancer of men accounting for 13.6% (Ferlay et al. (2010)). Statistically, in 2008, the number of new diagnosed cases was estimated to be 899, 000 with no less than 258, 100 deaths (Ferlay et al. (2010)).
+Prostate cancer (CaP) has been reported on a worldwide scale to be the second most frequently diagnosed cancer of men accounting for 13.6% (Ferlay et al. (2010)). Statistically, in 2008, the number of new diagnosed cases was estimated to be 899,000 with no less than 258,100 deaths (Ferlay et al. (2010)).
 
 Magnetic resonance imaging (MRI) provides imaging techniques allowing to diagnose and localize CaP. The I2CVB provides a multi-parametric MRI dataset to help at the development of computer-aided detection and diagnosis (CAD) system.
 Access: http://i2cvb.github.io/
@@ -183,7 +183,7 @@ __SCR database: Segmentation in Chest Radiographs__
 
 The automatic segmentation of anatomical structures in chest radiographs is of great importance for computer-aided diagnosis in these images. The SCR database has been established to facilitate comparative studies on segmentation of the lung fields, the heart and the clavicles in standard posterior-anterior chest radiographs.
 
-In the spirit of cooperative scientific progress, we freely share the SCR database and are committed to maintaining a public repository of results of various algorithms on these segmentation tasks. On thes pages, instructions can be found on downloading the database and uploading results, and benchmark results of various methods can be inspected.
+In the spirit of cooperative scientific progress, we freely share the SCR database and are committed to maintaining a public repository of results of various algorithms on these segmentation tasks. On these pages, instructions can be found on downloading the database and uploading results, and benchmark results of various methods can be inspected.
 
 Access: http://www.isi.uu.nl/Research/Databases/SCR/
 

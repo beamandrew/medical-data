@@ -3,6 +3,14 @@ This is a curated list of medical data for machine learning.
 This list is provided for informational purposes only, please make sure you respect any and all usage restrictions for any of the data listed here.
 
 ## 1. Medical Imaging Data
+
+__EchoNet-Dynamic__  
+A Large New Cardiac Motion Video Data Resource for Medical Machine Learning, from Stanford.
+Overview: https://echonet.github.io/dynamic/index.html
+Access: https://echonet.github.io/dynamic/index.html#access
+
+***
+
 __The National Library of Medicine presents MedPix®__  
 Database of 53,000 medical images from 13,000 patients with annotations. __Requires registration__.  
 Information: https://medpix.nlm.nih.gov/home  

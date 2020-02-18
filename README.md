@@ -566,6 +566,17 @@ Data: https://ebm-nlp.herokuapp.com/annotations
 
 Website: https://ebm-nlp.herokuapp.com/index
 
+__Evidence Inference__
+
+A dataset for inferring the results of randomized control trials (RCTs). A collection of pubmed RCTs from the open access subset. Annotations of (intervention, comparison intervention, outcome, significance finding, evidence span) are available. 
+
+Paper: https://arxiv.org/abs/1904.01606
+
+Data: https://github.com/jayded/evidence-inference/tree/master/annotations
+
+Website: http://evidence-inference.ebm-nlp.com/
+
+
 ## 6. TREC Precision Medicine / Clinical Decision Support Track
 Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014.
 

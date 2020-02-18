@@ -394,6 +394,16 @@ Access: https://continuousregistration.grand-challenge.org/home/
 
 ***
 
+__Automatic Non-rigid Histological Image Registration (ANHIR)__
+
+This ANHIR challenge aims at the automatic nonlinear image registration of 2D whole slice imaging (WSI) microscopy images of histopathology tissue samples stained with different dyes. The task is difficult due to non-linear deformations affecting the tissue samples, different appearance of each stain, repetitive texture, and the large size of the whole slide images.
+
+* Challenge: https://anhir.grand-challenge.org/
+* Benchmark: http://borda.github.io/BIRL
+* Refernce: [BIRL: Benchmark on Image Registration methods with Landmark validation](https://www.researchgate.net/publication/338291737_BIRL_Benchmark_on_Image_Registration_methods_with_Landmark_validation)
+
+***
+
 __Bone X-Ray Deep Learning Competition using MURA__
 
 MURA (musculoskeletal radiographs) is a large dataset of bone X-rays. The Stanford ML Group and AIMI Center are hosting a competition where algorithms are tasked with determining whether an X-ray study is normal or abnormal. The algorithms are evaluated on a test set of 207 musculoskeletal studies, where each study was individually retrospectively labeled as normal or abnormal by 6 board-certified radiologists. Three of these radiologists were used to create a gold standard, defined as the majority vote of the labels of the radiologists, and the other three were used to obtain the best radiologist performance, defined as the maximum score of the three radiologists with the gold standard as groundtruth. The challenge leaderboard is hosted publicly and updated every two weeks.

@@ -366,6 +366,8 @@ __Challenges track in MICCAI Conference__
 
 The Medical Image Computing and Computer Assisted Intervention. Most of the challenges would've been covered by websites like grand-challenges etc. You can still see all of them under the "Satellite Events" tab of the conference sites.
 
+- 2019 - https://www.miccai2019.org/programme/workshops-challenges-tutorials/#tablepress-10
+- 2018 - https://www.miccai2018.org/en/WORKSHOP---CHALLENGE---TUTORIAL.html
 - 2017 - http://www.miccai2017.org/satellite-events
 - 2016 - http://www.miccai2016.org/en/SATELLITE-EVENTS.html
 - 2015 - https://www.miccai2015.org/frontend/index.php?page_id=589
@@ -378,6 +380,8 @@ __International Symposium on Biomedical Imaging (ISBI)__
 
 The IEEE International Symposium on Biomedical Imaging (ISBI) is a scientific conference dedicated to mathematical, algorithmic, and computational aspects of biomedical imaging, across all scales of observation. Most of these challenges will be listed in grand-challenges. You can still access it by visiting the "Challenges" tab under "Program" in each year's website.
 
+- 2019 - https://biomedicalimaging.org/2019/challenges/
+- 2018 - https://biomedicalimaging.org/2018/challenges/
 - 2017 - http://biomedicalimaging.org/2017/challenges/
 - 2016 - http://biomedicalimaging.org/2016/?page_id=416
 
@@ -409,6 +413,14 @@ __Bone X-Ray Deep Learning Competition using MURA__
 MURA (musculoskeletal radiographs) is a large dataset of bone X-rays. The Stanford ML Group and AIMI Center are hosting a competition where algorithms are tasked with determining whether an X-ray study is normal or abnormal. The algorithms are evaluated on a test set of 207 musculoskeletal studies, where each study was individually retrospectively labeled as normal or abnormal by 6 board-certified radiologists. Three of these radiologists were used to create a gold standard, defined as the majority vote of the labels of the radiologists, and the other three were used to obtain the best radiologist performance, defined as the maximum score of the three radiologists with the gold standard as groundtruth. The challenge leaderboard is hosted publicly and updated every two weeks.
 
 Access: https://stanfordmlgroup.github.io/competitions/mura/
+
+***
+
+__2019 Kidney and Kidney Tumor Segmentation Challenge (KiTS19)__
+
+The KiTS19 challenge is on the semantic segmentation of kidneys and kidney tumors in contrast-enhanced CT scans. The dataset consists of 300 patients with preoperative arterial-phase abdominal CTs annotated by experts. 210 (70%) of these were released as a training set and the remaining 90 (30%) were held out as a test set. This challenge was held in conjunction with MICCAI 2019.
+
+Access: https://github.com/neheller/kits19/
 
 ***
 

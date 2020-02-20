@@ -453,6 +453,13 @@ Embeddings:  https://figshare.com/s/00d69861786cd0156d81
 Interactive tool: http://cui2vec.dbmi.hms.harvard.edu  
 ***
 
+__Evaluation of Embeddings of Laboratory Test Codes for Patients at a Cancer Center__  
+200 dimensional Word2Vec embeddings of 1098 laboratory test codes (LOINCs) trained from 8,280,238 lab orders for 79,081 patients at City of Hope National Medical Center (Los Angeles, CA).  
+Paper: https://arxiv.org/abs/1907.09600  
+Embeddings and Code: https://github.com/elleros/DSHealth2019_loinc_embeddings  
+***
+
+
 ## 4. National Healthcare Data  
 __Centers for Disease Control and Prevention (CDC)__  
 Data from the CDC on many areas, including:  

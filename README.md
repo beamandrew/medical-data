@@ -583,6 +583,16 @@ Data: https://github.com/jayded/evidence-inference/tree/master/annotations
 
 Website: http://evidence-inference.ebm-nlp.com/
 
+__PubMedQA__
+
+A dataset for biomedical research question answering. The task is to use yes/no/maybe to answer naturally occuring questions in PubMed titles.
+
+Paper: https://arxiv.org/abs/1909.06146
+
+Data: https://github.com/pubmedqa/pubmedqa
+
+Website: https://pubmedqa.github.io/
+
 
 ## 6. TREC Precision Medicine / Clinical Decision Support Track
 Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014.

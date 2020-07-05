@@ -374,7 +374,7 @@ The Medical Image Computing and Computer Assisted Intervention. Most of the chal
 - 2016 - http://www.miccai2016.org/en/SATELLITE-EVENTS.html
 - 2015 - https://www.miccai2015.org/frontend/index.php?page_id=589
 
-Access: http://www.miccai.org/ConferenceHistory
+Access: http://www.miccai.org/events/conference-history/
 
 ***
 

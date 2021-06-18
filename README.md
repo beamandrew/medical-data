@@ -281,6 +281,33 @@ __Histology dataset: image registration of differently stain slices__
 Access: http://cmp.felk.cvut.cz/~borovji3/?page=dataset
 
 ***
+__Center for diagnosis and telemedicine Moscow health department__
+
+Access: https://mosmed.ai/datasets/
+
+
+- MosMedData: Results of CT scan of the chest with signs of COVID-19.
+  > Description: *This dataset (dataset) contains the results of a computed tomography of the chest organs with radiological signs of viral pneumonia (COVID-19), as well as without signs (normal). For some studies, the marking of regions of interest (zones of seals of the “ground glass” type and consolidation) in the form of a binary squeaky mask is presented. The research data were collected in the departments of radiological diagnostics of medical institutions in the city of Moscow.*
+  > 
+  > Access (free): https://mosmed.ai/datasets/covid19_1110/ (period from 01.03.2020 to 25.04.2020, Size: 33 GB)   
+  >  
+  > Access (free): https://mosmed.ai/datasets/covid19/ (period from 21.01.2020 to 17.03.2020, Size: 12 GB) 
+
+- MosMedData: Self Test Dataset of Artificial Intelligence Services
+  > Description: *This dataset (dataset) contains examples of the results of radiation studies of chest x-ray (hereinafter referred to as CT), fluorography, CT scan, low-dose CT scan, and mammography, collected using various models of equipment installed in the departments of radiation diagnostics of medical institutions in Moscow and connected to the Unified Radiological Information Service.*
+  > 
+  > Access (free): https://mosmed.ai/datasets/aie20_selftest/ (Size: 10 GB)
+ 
+- Dataset Radiology Moscow CTLungCa-500
+  > Description: *Tagged lung computed tomography results.*
+  > 
+  > Access (free): https://mosmed.ai/datasets/ct_lungcancer_500/ (Size: 89 GB)
+  > 
+  > Bibliographic link: *Tagged results of computed tomography of the lungs: A.S. 2018620500 Russian Federation (rus, Тегированные результаты компьютерных томографий легких: а.с. 2018620500 Рос.Федерация)*
+
+
+***
+
 
 ## 2. Challenges/Contest Data
 

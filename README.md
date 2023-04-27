@@ -45,6 +45,13 @@ Access: http://www.isi.uu.nl/Research/Databases/DRIVE/download.php
 
 ***
 
+__SynthStrip__  
+The SynthStrip dataset is a permissively licensed collection of full-head images and ground-truth brain masks from over 600 MRI, CT, and PET scans. It includes a landscape of MRI scans with different contrasts, resolutions, and subject populations ranging from infants to patients with glioblastoma. This dataset is useful for developing and evaluating brain extraction (or skull-stripping) algorithms.  
+Paper: https://doi.org/10.1016/j.neuroimage.2022.119474  
+Access: https://w3id.org/synthstrip  
+
+***
+
 __AMRG Cardiac Atlas__
 The AMRG Cardiac MRI Atlas is a complete labelled MRI image set of a normal patient's heart acquired with the Auckland MRI Research Group 's Siemens Avanto scanner. The atlas aims to provide university and school students, MR technologists, clinicians...
 

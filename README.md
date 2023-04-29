@@ -41,7 +41,7 @@ Access: https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc1
 __Digital Retinal Images for Vessel Extraction (DRIVE)__  
 The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images. It consists of 40 photographs out of which 7 showing signs of mild early diabetic retinopathy.  
 Paper: https://ieeexplore.ieee.org/document/1282003  
-Access: http://www.isi.uu.nl/Research/Databases/DRIVE/download.php  
+Access: https://drive.grand-challenge.org/
 
 ***
 
@@ -143,7 +143,7 @@ __DDSM: Digital Database for Screening Mammography__
  The Digital Database for Screening Mammography (DDSM) is a resource for use by the mammographic image analysis research community. Primary support for this project was a grant from the Breast Cancer Research Program of the U.S. Army Medical Research and Materiel Command. The DDSM project is a collaborative effort involving co-p.i.s at the Massachusetts General Hospital (D. Kopans, R. Moore), the University of South Florida (K. Bowyer), and Sandia National Laboratories (P. Kegelmeyer). Additional cases from Washington University School of Medicine were provided by Peter E. Shile, MD, Assistant Professor of Radiology and Internal Medicine. Additional collaborating institutions include Wake Forest University School of Medicine (Departments of Medical Engineering and Radiology), Sacred Heart Hospital and ISMD, Incorporated. The primary purpose of the database is to facilitate sound research in the development of computer algorithms to aid in screening. Secondary purposes of the database may include the development of algorithms to aid in the diagnosis and the development of teaching or training aids. The database contains approximately 2,500 studies. Each study includes two images of each breast, along with some associated patient information (age at time of study, ACR breast density rating, subtlety rating for abnormalities, ACR keyword description of abnormalities) and image information (scanner, spatial resolution, ...). Images containing suspicious areas have associated pixel-level "ground truth" information about the locations and types of suspicious regions. Also provided are software both for accessing the mammogram and truth images and for calculating performance figures for automated image analysis algorithms.
 
 
-Access: http://marathon.csee.usf.edu/Mammography/Database.html
+Access: http://www.eng.usf.edu/cvprg/Mammography/Database.html
 
 ***
 
@@ -381,7 +381,7 @@ The Medical Image Computing and Computer Assisted Intervention. Most of the chal
 - 2016 - http://www.miccai2016.org/en/SATELLITE-EVENTS.html
 - 2015 - https://www.miccai2015.org/frontend/index.php?page_id=589
 
-Access: http://www.miccai.org/ConferenceHistory
+Access: http://www.miccai.org/events/conference-history/
 
 ***
 
@@ -450,7 +450,7 @@ Data: https://github.com/clinicalml/embeddings
 __MIMIC-III, a freely accessible critical care database__  
 Anonymized critical care EHR database on 38,597 patients and 53,423 ICU admissions. __Requires registration__.  
 Paper: http://www.nature.com/articles/sdata201635  
-Data: http://physionet.org/physiobank/database/mimic3cdb/  
+Data: https://mimic.physionet.org/ 
 ***
 
 __Clinical Concept Embeddings Learned from Massive Sources of Medical Data__  

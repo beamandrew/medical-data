@@ -600,6 +600,16 @@ Data: https://github.com/pubmedqa/pubmedqa
 
 Website: https://pubmedqa.github.io/
 
+__PMC-Patients__
+
+A dataset that contains 167k patient summaries annotated with 3.1M relevant articles and 293k similar patients. The patient summaries are extracted from case report articles in PubMed Central.
+
+Paper: https://arxiv.org/abs/2202.13876
+
+Data: https://huggingface.co/datasets/zhengyun21/PMC-Patients
+
+Website: https://pmc-patients.github.io/
+
 
 ## 6. TREC Precision Medicine / Clinical Decision Support Track
 Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014.

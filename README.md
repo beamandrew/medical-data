@@ -26,7 +26,7 @@ Preprocessed version: http://preprocessed-connectomes-project.org/abide/
 ***
 
 __Alzheimer's Disease Neuroimaging Initiative (ADNI)__  
-MRI database on Alzheimer's patients and healthy controls. Also has clinical, genomic, and biomaker data. __Requires registration__.  
+MRI database on Alzheimer's patients and healthy controls. Also has clinical, genomic, and biomarker data. __Requires registration__.  
 Paper: http://www.neurology.org/content/74/3/201.short  
 Access: http://adni.loni.usc.edu/data-samples/access-data/
 
@@ -41,7 +41,7 @@ Access: https://wiki.cancerimagingarchive.net/display/Public/CT+COLONOGRAPHY#dc1
 __Digital Retinal Images for Vessel Extraction (DRIVE)__  
 The DRIVE database is for comparative studies on segmentation of blood vessels in retinal images. It consists of 40 photographs out of which 7 showing signs of mild early diabetic retinopathy.  
 Paper: https://ieeexplore.ieee.org/document/1282003  
-Access: http://www.isi.uu.nl/Research/Databases/DRIVE/download.php  
+Access: https://drive.grand-challenge.org/
 
 ***
 
@@ -53,7 +53,7 @@ Access: https://w3id.org/synthstrip
 ***
 
 __AMRG Cardiac Atlas__
-The AMRG Cardiac MRI Atlas is a complete labelled MRI image set of a normal patient's heart acquired with the Auckland MRI Research Group 's Siemens Avanto scanner. The atlas aims to provide university and school students, MR technologists, clinicians...
+The AMRG Cardiac MRI Atlas is a complete labelled MRI image set of a normal patient's heart acquired with the Auckland MRI Research Group's Siemens Avanto scanner. The atlas aims to provide university and school students, MR technologists, clinicians...
 
 
 __Congenital Heart Disease (CHD) Atlas__
@@ -82,7 +82,7 @@ Access: http://www.oasis-brains.org/
 __Isic Archive - Melanoma__
 This archive contains 23k images of classified skin lesions. It contains both malignant and benign examples.  
 
-Each example contains the image of the lesion, meta data regarding the lesion (including clasisfication and segmentation) and meta data regarding the patient.  
+Each example contains the image of the lesion, meta data regarding the lesion (including classification and segmentation) and meta data regarding the patient.  
 
 The data can be viewed in this link: https://www.isic-archive.com (in the gallery section)  
 It can be downloaded through the site or by using this repository:   
@@ -91,13 +91,14 @@ https://github.com/GalAvineri/ISIC-Archive-Downloader
 ***
 
 __SCMR Consensus Data__
-The SCMR Consensus Dataset is a set of 15 cardiac MRI studies of mixed pathologies (5 healthy, 6 myocardial infarction, 2 heart failure and 2 hypertrophy), which were acquired from different MR machines (4 GE, 5 Siemens, 6 Philips). The main objectives...
-
+The SCMR Consensus Dataset is a set of 15 cardiac MRI studies of mixed pathologies (5 healthy, 6 myocardial infarction, 2 heart failure and 2 hypertrophy), which were acquired from different MR machines (4 GE, 5 Siemens, 6 Philips). The main objectives...\
+Access: https://www.cardiacatlas.org/scmr-consensus-contours/
 
 __Sunnybrook Cardiac Data__
-The Sunnybrook Cardiac Data (SCD), also known as the 2009 Cardiac MR Left Ventricle Segmentation Challenge data, consist of 45 cine-MRI images from a mixed of patients and pathologies: healthy, hypertrophy, heart failure with infarction and heart...
+The Sunnybrook Cardiac Data (SCD), also known as the 2009 Cardiac MR Left Ventricle Segmentation Challenge data, consists of 45 cine-MRI images from a mixed of patients and pathologies: healthy, hypertrophy, heart failure with infarction and heart...\
+Access: https://www.cardiacatlas.org/sunnybrook-cardiac-data/
 
-Access: http://www.cardiacatlas.org/studies/
+Access: https://www.cardiacatlas.org/
 
 ***
 
@@ -113,10 +114,10 @@ Specifically, the LIDC initiative aims were to provide:
 *	a reference database for the relative evaluation of image processing or CAD algorithms and
 *	a flexible query system that will provide investigators the opportunity to evaluate a wide range of technical parameters and de-identified clinical information within this database that may be important for research applications.
 
-This resource will stimulate further database development for image processing and CAD evaluation for applications that include cancer screening, diagnosis, and image guided intervention, and treatment. Therefore, the NCI encourages investigator-initiated grant applications that utilize the database in their research. NCI also encourages investigator-initiated grant applications that provide tools or methodology that may improve or complement the mission of the LIDC.
+This resource will stimulate further database development for image processing and CAD evaluation for applications that include cancer screening, diagnosis, and image guided intervention, and treatment. Therefore, the NCI encourages investigator-initiated grant applications that utilize the database in their research. NCI also encourages investigator-initiated grant applications that provide tools or methodologies that may improve or complement the mission of the LIDC.
 
 
-Access: https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI#
+Access: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254
 ***
 
 __TCIA Collections__
@@ -132,9 +133,9 @@ __Belarus tuberculosis portal__
 
 Tuberculosis (TB) is a major problem of Belarus Public Health. Recently situation has been complicated with emergence and development of MDR/XDR TB and HIV/TB which require long-term treatment. Many and the most severe cases usually disseminate across the country to different TB dispensaries. The ability of leading Belarus TB specialists to follow such patients will be greatly improved by using a common database containing patients’ radiological images, lab work and clinical data. This will also significantly improve adherence to the treatment protocol and result in a better record of the treatment outcomes.
 Criteria for inclusion clinical cases in the database of the portal - patients admitted to the MDR-TB department of RSPC of Pulmonology and Tuberculosis with diagnosed or suspected of MDR-TB, which conducted CT – study (± 2 months from the date of registration)
-Belarus dataset have both chest X-rays and CT scans of the same patient.
+Belarus dataset has both chest X-rays and CT scans of the same patient.
 
-Access: http://tuberculosis.by/
+Access: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
 
 ***
 
@@ -142,8 +143,9 @@ __DDSM: Digital Database for Screening Mammography__
 
  The Digital Database for Screening Mammography (DDSM) is a resource for use by the mammographic image analysis research community. Primary support for this project was a grant from the Breast Cancer Research Program of the U.S. Army Medical Research and Materiel Command. The DDSM project is a collaborative effort involving co-p.i.s at the Massachusetts General Hospital (D. Kopans, R. Moore), the University of South Florida (K. Bowyer), and Sandia National Laboratories (P. Kegelmeyer). Additional cases from Washington University School of Medicine were provided by Peter E. Shile, MD, Assistant Professor of Radiology and Internal Medicine. Additional collaborating institutions include Wake Forest University School of Medicine (Departments of Medical Engineering and Radiology), Sacred Heart Hospital and ISMD, Incorporated. The primary purpose of the database is to facilitate sound research in the development of computer algorithms to aid in screening. Secondary purposes of the database may include the development of algorithms to aid in the diagnosis and the development of teaching or training aids. The database contains approximately 2,500 studies. Each study includes two images of each breast, along with some associated patient information (age at time of study, ACR breast density rating, subtlety rating for abnormalities, ACR keyword description of abnormalities) and image information (scanner, spatial resolution, ...). Images containing suspicious areas have associated pixel-level "ground truth" information about the locations and types of suspicious regions. Also provided are software both for accessing the mammogram and truth images and for calculating performance figures for automated image analysis algorithms.
 
-
-Access: http://marathon.csee.usf.edu/Mammography/Database.html
+Paper: https://www.nature.com/articles/sdata2017177
+Access: http://www.eng.usf.edu/cvprg/Mammography/Database.html
+Access: https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=22516629
 
 ***
 
@@ -151,8 +153,17 @@ __INbreast: Database for Digital Mammography__
 
 The INbreast database is a mammographic database, with images acquired at a Breast Centre, located in a University Hospital (Hospital de São João, Breast Centre, Porto, Portugal). INbreast has a total of 115 cases (410 images) of which 90 cases are from women with both breasts (4 images per case) and 25 cases are from mastectomy patients (2 images per case). Several types of lesions (masses, calcifications, asymmetries, and distortions) are included. Accurate contours made by specialists are also provided in XML format. 
 
+The official link of the research article (paper):
+Paper: https://www.academicradiology.org/article/S1076-6332(11)00451-X/fulltext
+The above paper can be downloaded from the following link:
+Paper: https://core.ac.uk/download/pdf/47139244.pdf
 
+The following official link is broken.
 Access: http://medicalresearch.inescporto.pt/breastresearch/index.php/Get_INbreast_Database
+
+The following link of INbreast Database is working:
+Access: https://drive.google.com/file/d/19n-p9p9C0eCQA1ybm6wkMo-bbeccT_62/view?usp=sharing
+Access: https://www.kaggle.com/datasets/ramanathansp20/inbreast-dataset
 
 ***
 
@@ -174,9 +185,9 @@ Magnetic resonance imaging (MRI) provides imaging techniques allowing to diagnos
 Access: http://i2cvb.github.io/
 
 ***
-Access: http://www.ehealthlab.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets
 
 - __MRI Lesion Segmentation in Multiple Sclerosis Database__
+Access: https://academictorrents.com/details/e08155e5022d688fea00319bd2ead4f0f703f5bb
 
 - __Emergency Tele-Orthopedics X-ray Digital Library__
 
@@ -202,7 +213,8 @@ The automatic segmentation of anatomical structures in chest radiographs is of g
 
 In the spirit of cooperative scientific progress, we freely share the SCR database and are committed to maintaining a public repository of results of various algorithms on these segmentation tasks. On these pages, instructions can be found on downloading the database and uploading results, and benchmark results of various methods can be inspected.
 
-Access: http://www.isi.uu.nl/Research/Databases/SCR/
+Paper: https://www.sciencedirect.com/science/article/abs/pii/S1361841505000368?via%3Dihub
+Access: https://zenodo.org/record/7056076
 
 ***
 __Medical Image Databases & Libraries__
@@ -211,9 +223,9 @@ __Medical Image Databases & Libraries__
 
  **General Category**
 
-- e-Anatomy.org - Interactive Atlas of Anatomy - e-anatomy is an anatomy e-learning web site. More than 1500 slices from normal CT and MR exams were selected in order to cover the entire sectional anatomy of human body. Images were labeled using Terminologia Anatomica. A user-friendly interface allows to cine through multi-slice image series combined with interactive textual information, 3D models and anatomy drawings.
+- e-Anatomy.org - Interactive Atlas of Anatomy - e-anatomy is an anatomy e-learning website. More than 1500 slices from normal CT and MR exams were selected in order to cover the entire sectional anatomy of human body. Images were labeled using Terminologia Anatomica. A user-friendly interface allows to cine through multi-slice image series combined with interactive textual information, 3D models and anatomy drawings.
 
-- Medical Pictures and Definitions - Welcome to the largest database of medical pictures and definitions on the Internet. There are many sites sites that provide medical information but very few that provide medical pictures. As far as we know we are the only one that provides a medical picture database with basic information about each term pictured. Editor's Note: Nice website with free access & no pesky registration to 1200+ health and medical related images with definitions.
+- Medical Pictures and Definitions - Welcome to the largest database of medical pictures and definitions on the Internet. There are many sites that provide medical information but very few that provide medical pictures. As far as we know we are the only one that provides a medical picture database with basic information about each term pictured. Editor's Note: Nice website with free access & no pesky registration to 1200+ health and medical related images with definitions.
 
 - Nucleus Medical Art - Medical Illustrations, Medical Art. Includes 3D animations. "Nucleus Medical Art, Inc. is a leading creator and distributor of medical illustrations, medical animations, and interactive multimedia for publishing, legal, healthcare, entertainment, pharmaceutical, medical device, academia and other markets, both in the U.S. and abroad. Editors Note: Great website.
 
@@ -225,7 +237,7 @@ __Medical Image Databases & Libraries__
 
 - Hardin MD - Medical and Disease Pictures, is a Free and established resource that has been offered by the University of Iowa for quite some time. The home page is in directory style where users will have to drill down to find the images they are looking for, many of which go offsite. Nevertheless, Hardin MD is an excellent gateway to 1,000s of detailed medical photos and illustrations.
 
-- Health Education Assets Library (HEAL) - Health on the Net Foundation Media Gallery Headquartered in Switzerland, (HON) is an international body that seeks to encourage ethical provision of online health information. "HONmedia (the image gallery) is an unique repository of over 6'800 medical images and videos, pertaining to 1,700 topics and themes. This peerless database has been created manually by HON and new image links are constantly being added from the world-wide Web. HON encourages users to make their own image links available via the Submit an image link." Library includes anatomical images, visual affects of diseases and conditions and procedures.
+- Health Education Assets Library (HEAL) - Health on the Net Foundation Media Gallery Headquartered in Switzerland, (HON) is an international body that seeks to encourage ethical provision of online health information. "HONmedia (the image gallery) is a unique repository of over 6'800 medical images and videos, pertaining to 1,700 topics and themes. This peerless database has been created manually by HON and new image links are constantly being added from the world-wide Web. HON encourages users to make their own image links available via the Submit an image link." Library includes anatomical images, visual effects of diseases and conditions and procedures.
 
 - Public Health Image Library (PHIL) Created by a Working Group at the Centers for Disease Control and Prevention (CDC), the PHIL offers an organized, universal electronic gateway to CDC's pictures. We welcome public health professionals, the media, laboratory scientists, educators, students, and the worldwide public to use this material for reference, teaching, presentation, and public health messages. The content is organized into hierarchical categories of people, places, and science, and is presented as single images, image sets, and multimedia files.
 
@@ -249,11 +261,11 @@ __Medical Image Databases & Libraries__
 
 - The Multi-Dimensional Human Embryo is a collaboration funded by the National Institute of Child Health and Human Development (NICHD) to produce and make available over the internet a three-dimensional image reference of the Human Embryo based on magnetic resonance imaging.
 
-- GastroLab Endoscopy Archives Was initiated in 1996 with the goal of maintaining an endoscopic image gallery free to use for all interested health care personals.
+- GastroLab Endoscopy Archives Was initiated in 1996 with the goal of maintaining an endoscopic image gallery free to use for all interested healthcare personnel.
 
 - MedPix Is a Radiology and Medical Picture Databases resource tool. The home page interface is confusing and the entire website design is not user-friendly and has a mid 1990s feel to it. However, if you have the time (patience) it could prove to be an important resource for some.
 
-- OBGYN.net Image Library - This site is devoted entirely to providing access to images of interest to women's health. In addition to providing you with access to OBGYN.net images we also point to other women's health related images on the Internet. Because of the graphic nature of the material some individuals may prefer not to view these images.They are provided for educational purposes only.
+- OBGYN.net Image Library - This site is devoted entirely to providing access to images of interest to women's health. In addition to providing you with access to OBGYN.net images we also point to other women's health related images on the Internet. Because of the graphic nature of the material some individuals may prefer not to view these images. They are provided for educational purposes only.
 
 
 ***
@@ -294,7 +306,7 @@ Access: http://cmp.felk.cvut.cz/~borovji3/?page=dataset
 __Visual Concept Extraction Challenge in Radiology__
  Manually annotated radiological data of several anatomical structures (e.g. kidney, lung, bladder, etc.) from several different imaging modalities (e.g. CT and MR). They also provide a cloud computing instance that anyone can use to develop and evaluate models against benchmarks.
 
-Access: http://www.visceral.eu/
+Access: https://visceral.eu/closed-benchmarks/anatomy2/
 
 ***
 __Grand Challenges in Biomedical Image Analysis__
@@ -325,7 +337,7 @@ Access: https://www.kaggle.com/c/diabetic-retinopathy-detection
 ***
 __Cervical Cancer Screening__
 
-In this kaggle competition, you will develop algorithms to correctly classify cervix types based on cervical images. These different types of cervix in our data set are all considered normal (not cancerous), but since the transformation zones aren't always visible, some of the patients require further testing while some don't.
+In this Kaggle competition, you will develop algorithms to correctly classify cervix types based on cervical images. These different types of cervix in our data set are all considered normal (not cancerous), but since the transformation zones aren't always visible, some of the patients require further testing while some don't.
 
 Access: https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data
 
@@ -379,9 +391,9 @@ The Medical Image Computing and Computer Assisted Intervention. Most of the chal
 - 2018 - https://www.miccai2018.org/en/WORKSHOP---CHALLENGE---TUTORIAL.html
 - 2017 - http://www.miccai2017.org/satellite-events
 - 2016 - http://www.miccai2016.org/en/SATELLITE-EVENTS.html
-- 2015 - https://www.miccai2015.org/frontend/index.php?page_id=589
+- 2015 - https://www.events.tum.de/frontend/index.php?sub=22
 
-Access: http://www.miccai.org/ConferenceHistory
+Access: https://dblp.org/db/conf/miccai/index.html
 
 ***
 
@@ -413,13 +425,13 @@ This ANHIR challenge aims at the automatic nonlinear image registration of 2D wh
 
 * Challenge: https://anhir.grand-challenge.org/
 * Benchmark: http://borda.github.io/BIRL
-* Refernce: [BIRL: Benchmark on Image Registration methods with Landmark validation](https://www.researchgate.net/publication/338291737_BIRL_Benchmark_on_Image_Registration_methods_with_Landmark_validation)
+* Reference: [BIRL: Benchmark on Image Registration methods with Landmark validation](https://www.researchgate.net/publication/338291737_BIRL_Benchmark_on_Image_Registration_methods_with_Landmark_validation)
 
 ***
 
 __Bone X-Ray Deep Learning Competition using MURA__
 
-MURA (musculoskeletal radiographs) is a large dataset of bone X-rays. The Stanford ML Group and AIMI Center are hosting a competition where algorithms are tasked with determining whether an X-ray study is normal or abnormal. The algorithms are evaluated on a test set of 207 musculoskeletal studies, where each study was individually retrospectively labeled as normal or abnormal by 6 board-certified radiologists. Three of these radiologists were used to create a gold standard, defined as the majority vote of the labels of the radiologists, and the other three were used to obtain the best radiologist performance, defined as the maximum score of the three radiologists with the gold standard as groundtruth. The challenge leaderboard is hosted publicly and updated every two weeks.
+MURA (musculoskeletal radiographs) is a large dataset of bone X-rays. The Stanford ML Group and AIMI Center are hosting a competition where algorithms are tasked with determining whether an X-ray study is normal or abnormal. The algorithms are evaluated on a test set of 207 musculoskeletal studies, where each study was individually retrospectively labeled as normal or abnormal by 6 board-certified radiologists. Three of these radiologists were used to create a gold standard, defined as the majority vote of the labels of the radiologists, and the other three were used to obtain the best radiologist performance, defined as the maximum score of the three radiologists with the gold standard as ground truth. The challenge leaderboard is hosted publicly and updated every two weeks.
 
 Access: https://stanfordmlgroup.github.io/competitions/mura/
 
@@ -436,21 +448,22 @@ Access: https://github.com/neheller/kits19/
 ## 3. Data derived from Electronic Health Records (EHRs)
 
 __Building the graph of medicine from millions of clinical narratives__  
-Co-occurence statistics for medical terms extracted from 14 million clinical notes and 260,000 patients.  
+Co-occurrence statistics for medical terms were extracted from 14 million clinical notes and 260,000 patients.  
 Paper: http://www.nature.com/articles/sdata201432  
 Data: http://datadryad.org/resource/doi:10.5061/dryad.jp917  
 
 ***
 __Learning Low-Dimensional Representations of Medical Concept__  
 Low-dimensional embeddings of medical concepts constructed using claims data. Note that this paper utilizes data from _Building the graph of medicine from millions of clinical narratives_    
-Paper: http://cs.nyu.edu/~dsontag/papers/ChoiChiuSontag_AMIA_CRI16.pdf  
+Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5001761/
 Data: https://github.com/clinicalml/embeddings  
 
 ***
 __MIMIC-III, a freely accessible critical care database__  
 Anonymized critical care EHR database on 38,597 patients and 53,423 ICU admissions. __Requires registration__.  
 Paper: http://www.nature.com/articles/sdata201635  
-Data: http://physionet.org/physiobank/database/mimic3cdb/  
+Data: https://physionet.org/content/mimiciii/1.4/  
+All versions: https://mimic.mit.edu/
 ***
 
 __Clinical Concept Embeddings Learned from Massive Sources of Medical Data__  
@@ -540,10 +553,10 @@ __Parkinsons Telemonitoring Data Set__
 Data: https://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring
 
 __Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set__  
-Data: https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings
+Data: https://archive.ics.uci.edu/dataset/301/parkinson+speech+dataset+with+multiple+types+of+sound+recordings
 
 __Parkinson's Disease Classification Data Set__  
-Data: https://archive.ics.uci.edu/ml/datasets/Parkinson%27s+Disease+Classification
+Data: https://archive.ics.uci.edu/dataset/470/parkinson+s+disease+classification
 
 __Primary Tumor Dataset__
 Data: https://archive.ics.uci.edu/ml/datasets/primary+tumor
@@ -592,7 +605,7 @@ Website: http://evidence-inference.ebm-nlp.com/
 
 __PubMedQA__
 
-A dataset for biomedical research question answering. The task is to use yes/no/maybe to answer naturally occuring questions in PubMed titles.
+A dataset for biomedical research question answering. The task is to use yes/no/maybe to answer naturally occurring questions in PubMed titles.
 
 Paper: https://arxiv.org/abs/1909.06146
 
@@ -602,7 +615,7 @@ Website: https://pubmedqa.github.io/
 
 
 ## 6. TREC Precision Medicine / Clinical Decision Support Track
-Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support from 2014.
+Text REtrieval Conference (TREC) is running a track on Precision Medicine / Clinical Decision Support since 2014.
 
 __2014 Clinical Decision Support Track__  
 Focus: Retrieval of biomedical articles relevant for answering generic clinical questions about medical records.  
@@ -643,8 +656,10 @@ __Atypical Affect Interspeech Sub-Challenge__
 
   Björn Schuller, Simone Hantke, and colleagues are providing the EMOTASS Corpus. This unique corpus is the first to give access to recordings of affective speech from disabled individuals encompassing a broader variety of mental, neurological, and physical disabilities. It comprises recordings of 15 disabled adult individuals (ages range from 19 to 58 years with a mean age of 31.6 years). The task will be classification of five emotions from their speech facing atypical display. Recordings were made in their everyday working environment. Overall, around 11k utterances and around nine hours of speech are included.     
 
-Paper: http://emotion-research.net/sigs/speech-sig/is2018_compare.pdf
+Paper: https://oulurepo.oulu.fi/handle/10024/26652
+Download: https://oulurepo.oulu.fi/bitstream/handle/10024/26652/nbnfi-fe202003037022.pdf?sequence=1
 
+The following link is not working anymore:
 Link: http://emotion-research.net/sigs/speech-sig/is18-compare.
 
 
@@ -652,8 +667,19 @@ Link: http://emotion-research.net/sigs/speech-sig/is18-compare.
 
 __Autism Sub-Challenge__
 
-The Autism Sub-Challenge is based upon the “Child Pathological Speech Database” (CPSD) . It provides speech as recorded in two university departments of child and adolescent psychiatry, located in Paris, France (Universite Pierre et Marie Curie/Pitie Salpetiere Hospital and Universite Rene Descartes/Necker Hospital). The dataset used in the Sub-Challenge contains 2.5 k instances of speech recordings from 99 children aged 6 to 18
+The Autism Sub-Challenge is based upon the “Child Pathological Speech Database” (CPSD). It provides speech as recorded in two university departments of child and adolescent psychiatry, located in Paris, France (Universite Pierre et Marie Curie/Pitie Salpetiere Hospital and Universite Rene Descartes/Necker Hospital). The dataset used in the Sub-Challenge contains 2.5 k instances of speech recordings from 99 children aged 6 to 18
 
-Paper: http://emotion-research.net/sigs/speech-sig/is2013_compare.pdf
+Paper: https://www.isca-speech.org/archive/pdfs/interspeech_2013/schuller13_interspeech.pdf
 
 Link: http://emotion-research.net/sigs/speech-sig/is13-compare.
+
+CPSD Paper Link: https://ieeexplore.ieee.org/document/5613153
+
+
+***
+
+__Diagnose Specific Language Impairment in Children__
+
+Three datasets were obtained via the CHILDES project, total 1163 samples. All the datasets consist of narratives from a child attempting to complete a wordless picture task. The choice to use only narrative corpora was based on previous research which indicated it has the best ability to distinguish a language impairment in children. The first dataset consists of samples from British adolescents, the second from Canadian children aged 4 to 9, and the third from U.S. children aged 4 to 12.
+
+Link: https://www.kaggle.com/datasets/dgokeeffe/specific-language-impairment

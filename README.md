@@ -46,7 +46,7 @@ Access: http://www.isi.uu.nl/Research/Databases/DRIVE/download.php
 ***
 
 __SynthStrip__  
-The SynthStrip dataset is a permissively licensed collection of full-head images and ground-truth brain masks from over 600 MRI, CT, and PET scans. It includes a landscape of MRI scans with different contrasts, resolutions, and subject populations ranging from infants to patients with glioblastoma. This dataset is useful for developing and evaluating brain extraction (or skull-stripping) algorithms.  
+The SynthStrip dataset is a collection of full-head images, ground-truth brain masks, and anatomical segmentation maps from over 600 MRI, CT, and PET scans. It includes a landscape of MRI contrasts, resolutions, and subject populations ranging from infants to glioblastoma patients. There are 2D and 3D versions of the dataset, useful for developing brain extraction (or skull-stripping) algorithms.  
 Paper: https://doi.org/10.1016/j.neuroimage.2022.119474  
 Access: https://w3id.org/synthstrip  
 

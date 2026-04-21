@@ -435,6 +435,12 @@ Access: https://github.com/neheller/kits19/
 
 ## 3. Data derived from Electronic Health Records (EHRs)
 
+ __PatientDatasets__                                                                           
+  Pre-built synthetic patient records with ICD-10-CM diagnoses, CPT codes, FHIR R4 bundles, HL7
+  v2 messages, and Parquet output. Commercially licensed, instant download, no IRB or DUA       
+  required. Specialty datasets for physical therapy, chiropractic, and billing software testing.
+  Access: https://patientdatasets.com
+
 __Building the graph of medicine from millions of clinical narratives__  
 Co-occurence statistics for medical terms extracted from 14 million clinical notes and 260,000 patients.  
 Paper: http://www.nature.com/articles/sdata201432  

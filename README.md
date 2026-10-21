@@ -4,6 +4,13 @@ This list is provided for informational purposes only, please make sure you resp
 
 ## 1. Medical Imaging Data
 
+__EchoXFlow__  
+35,377 recordings from 666 clinical examinations with native beamspace B-mode, Doppler and synchronized ECG; 2D contours and 3D LV meshes on annotated subsets. Public download; CC BY-NC-SA 4.0.  
+Access: https://huggingface.co/datasets/Ahus-AIM/EchoXFlow  
+Paper: https://arxiv.org/abs/2605.05447
+
+***
+
 __EchoNet-Dynamic__  
 A Large New Cardiac Motion Video Data Resource for Medical Machine Learning, from Stanford.
 Overview: https://echonet.github.io/dynamic/index.html
